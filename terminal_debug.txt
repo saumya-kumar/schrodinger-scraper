@@ -1,0 +1,306 @@
+2025-08-19 16:24:35,437 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 16:24:35,476 - INFO - ✅ Gemini API configured successfully
+2025-08-19 16:24:35,476 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...
+2025-08-19 16:25:08,246 - INFO - After sitemaps: 0 URLs (+0 new)
+2025-08-19 16:25:12,369 - INFO - After robots.txt: 0 URLs (+0 new)
+2025-08-19 16:25:12,369 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 16:25:12,621 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 16:25:40,117 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 16:25:40,118 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 16:25:40,144 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:25:40,172 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 16:25:40,173 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 16:25:40,242 - INFO - After URL seeding: 7425 URLs (+7425 new)
+2025-08-19 16:25:40,243 - INFO - 🔍 Starting ENHANCED recursive crawling with Crawl4AI...
+2025-08-19 16:25:40,245 - INFO - 📁 BASE_URL: Added 1 new URLs to file (Total: 7426)
+2025-08-19 16:25:40,245 - INFO - After recursive crawling: 7426 URLs (+1 new)
+2025-08-19 16:25:40,246 - INFO - 🌳 Starting hierarchical parent crawling...
+2025-08-19 16:25:40,854 - INFO - [HIERARCHICAL] Processing 10198 parent directories...
+2025-08-19 16:25:44,074 - INFO - 📁 HIERARCHICAL_: Added 3 new URLs to file (Total: 7429)
+2025-08-19 16:26:08,515 - INFO - 📁 HIERARCHICAL_: Added 12 new URLs to file (Total: 7441)
+2025-08-19 16:26:12,696 - INFO - 📁 HIERARCHICAL_: Added 2 new URLs to file (Total: 7443)
+2025-08-19 16:26:23,870 - INFO - 📁 HIERARCHICAL_: Added 1 new URLs to file (Total: 7444)
+2025-08-19 16:26:34,858 - INFO - 📁 HIERARCHICAL_: Added 3 new URLs to file (Total: 7447)
+2025-08-19 16:26:52,485 - INFO - 📁 HIERARCHICAL_: Added 1 new URLs to file (Total: 7448)
+2025-08-19 16:26:54,053 - INFO - 📁 HIERARCHICAL_: Added 8 new URLs to file (Total: 7456)
+2025-08-19 16:27:02,644 - ERROR - Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to "https://www.city.chuo.lg.jp/a0020/kusei/kouhoukouchou/kouchou/publiccomment/iken/r1nendo/", waiting until "load"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://www.city.chuo.lg.jp/a0020/kusei/kouhoukouchou/kouchou/publiccomment/iken/r1nendo/", waiting until "load"
+
+2025-08-19 16:28:35,619 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 16:28:35,656 - INFO - ✅ Gemini API configured successfully
+2025-08-19 16:28:35,660 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...
+2025-08-19 16:29:17,455 - INFO - After sitemaps: 0 URLs (+0 new)
+2025-08-19 16:29:20,351 - INFO - After robots.txt: 0 URLs (+0 new)
+2025-08-19 16:29:20,351 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 16:29:20,584 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 16:29:37,552 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 16:29:37,554 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 16:29:37,586 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:29:37,597 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 16:29:37,598 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 16:29:37,649 - INFO - After URL seeding: 7425 URLs (+7425 new)
+2025-08-19 16:29:37,650 - INFO - 🔍 Starting ENHANCED recursive crawling with Crawl4AI...
+2025-08-19 16:29:37,651 - INFO - After recursive crawling: 7425 URLs (+0 new)
+2025-08-19 16:29:37,652 - INFO - 🌳 Starting hierarchical parent crawling...
+2025-08-19 16:29:38,256 - INFO - [HIERARCHICAL] Processing 10198 parent directories...
+2025-08-19 16:29:41,212 - INFO - 📁 HIERARCHICAL_: Added 15 new URLs to file (Total: 7440)
+2025-08-19 16:29:41,989 - INFO - 📁 HIERARCHICAL_: Added 1 new URLs to file (Total: 7441)
+2025-08-19 16:29:50,813 - INFO - 📁 HIERARCHICAL_: Added 1 new URLs to file (Total: 7442)
+2025-08-19 16:30:13,960 - INFO - 📁 HIERARCHICAL_: Added 3 new URLs to file (Total: 7445)
+2025-08-19 16:30:40,102 - INFO - 📁 HIERARCHICAL_: Added 2 new URLs to file (Total: 7447)
+2025-08-19 16:30:45,460 - INFO - 📁 HIERARCHICAL_: Added 7 new URLs to file (Total: 7454)
+2025-08-19 16:30:55,403 - INFO - 📁 HIERARCHICAL_: Added 11 new URLs to file (Total: 7465)
+2025-08-19 16:31:03,240 - INFO - 📁 HIERARCHICAL_: Added 1 new URLs to file (Total: 7466)
+2025-08-19 16:31:12,288 - INFO - 📁 HIERARCHICAL_: Added 3 new URLs to file (Total: 7469)
+2025-08-19 16:31:23,697 - INFO - 📁 HIERARCHICAL_: Added 1 new URLs to file (Total: 7470)
+2025-08-19 16:31:24,884 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.city.chuo.lg.jp/shisetsu/genre/kosodate/", waiting until "load"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.city.chuo.lg.jp/shisetsu/genre/kosodate/", waiting until "load"
+
+2025-08-19 16:33:47,408 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 16:33:47,448 - INFO - ✅ Gemini API configured successfully
+2025-08-19 16:33:47,448 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...
+2025-08-19 16:34:29,726 - INFO - After sitemaps: 0 URLs (+0 new)
+2025-08-19 16:34:32,456 - INFO - After robots.txt: 0 URLs (+0 new)
+2025-08-19 16:34:32,456 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 16:34:32,694 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 16:34:56,517 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 16:34:56,517 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 16:34:56,540 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:34:56,553 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 16:34:56,553 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 16:34:56,600 - INFO - After URL seeding: 7425 URLs (+7425 new)
+2025-08-19 16:34:56,601 - INFO - 🔍 Starting ENHANCED recursive crawling with Crawl4AI...
+2025-08-19 16:34:56,603 - INFO - [BATCH] Processing batch of 500 URLs (Total: 500)
+2025-08-19 16:36:37,107 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (500/500)
+2025-08-19 16:36:37,328 - INFO - 🚫 Filtered out 638 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:36:37,330 - INFO - 📁 RECURSIVE_BATCH_1: Added 494 new URLs to file (Total: 7919)
+2025-08-19 16:36:37,331 - INFO - [SUCCESS] Batch complete: 1132 new URLs found in 100.7s
+2025-08-19 16:36:37,331 - INFO - [TOTAL] URLs discovered: 7919 | Queue: 8057
+2025-08-19 16:36:37,331 - INFO - [BATCH] Processing batch of 500 URLs (Total: 1000)
+2025-08-19 16:38:27,020 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (500/500)
+2025-08-19 16:38:27,214 - INFO - 🚫 Filtered out 821 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:38:27,216 - INFO - 📁 RECURSIVE_BATCH_2: Added 236 new URLs to file (Total: 8155)
+2025-08-19 16:38:27,216 - INFO - [SUCCESS] Batch complete: 1057 new URLs found in 109.9s
+2025-08-19 16:38:27,216 - INFO - [TOTAL] URLs discovered: 8155 | Queue: 8614
+2025-08-19 16:38:27,217 - INFO - [BATCH] Processing batch of 500 URLs (Total: 1500)
+2025-08-19 16:40:22,532 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (500/500)
+2025-08-19 16:40:22,840 - INFO - 🚫 Filtered out 792 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:40:22,840 - INFO - 📁 RECURSIVE_BATCH_3: Added 116 new URLs to file (Total: 8271)
+2025-08-19 16:40:22,840 - INFO - [SUCCESS] Batch complete: 908 new URLs found in 115.6s
+2025-08-19 16:40:22,850 - INFO - [TOTAL] URLs discovered: 8271 | Queue: 9022
+2025-08-19 16:44:38,581 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 16:44:38,624 - INFO - ✅ Gemini API configured successfully
+2025-08-19 16:44:38,624 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 16:44:38,874 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 16:44:55,708 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 16:44:55,709 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 16:44:55,730 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:44:55,749 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 16:44:55,749 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 16:47:51,836 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 16:47:51,872 - INFO - ✅ Gemini API configured successfully
+2025-08-19 16:47:51,872 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...
+2025-08-19 16:48:33,405 - INFO - After sitemaps: 0 URLs (+0 new)
+2025-08-19 16:48:36,383 - INFO - After robots.txt: 0 URLs (+0 new)
+2025-08-19 16:48:36,397 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 16:48:36,654 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 16:49:12,928 - INFO - [URL_SEEDING] Task 1 found 9163 URLs
+2025-08-19 16:49:12,928 - INFO - [URL_SEEDING] Task 2 found 9163 URLs
+2025-08-19 16:49:12,931 - INFO - [URL_SEEDING] 2/2 tasks succeeded, 18326 total URLs from Common Crawl
+2025-08-19 16:49:13,220 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 16:49:13,220 - INFO - [URL_SEEDING] Seeding successful, found 7570 URLs from Common Crawl + Sitemaps
+2025-08-19 16:49:13,220 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 16:49:13,280 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:49:13,314 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 16:49:13,316 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 16:49:13,649 - INFO - After URL seeding: 7425 URLs (+7425 new)
+2025-08-19 16:49:13,664 - INFO - 🔍 Starting ENHANCED recursive crawling with Crawl4AI...
+2025-08-19 16:49:13,668 - INFO - [BATCH] Processing batch of 500 URLs (Total: 500)
+2025-08-19 16:50:59,739 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (500/500)
+2025-08-19 16:51:00,259 - INFO - 🚫 Filtered out 660 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:51:00,273 - INFO - 📁 RECURSIVE_BATCH_1: Added 536 new URLs to file (Total: 7961)
+2025-08-19 16:51:00,273 - INFO - [SUCCESS] Batch complete: 1196 new URLs found in 106.6s
+2025-08-19 16:51:00,273 - INFO - [TOTAL] URLs discovered: 7961 | Queue: 8121
+2025-08-19 16:51:00,274 - INFO - [BATCH] Processing batch of 500 URLs (Total: 1000)
+2025-08-19 16:52:46,280 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (500/500)
+2025-08-19 16:52:46,487 - INFO - 🚫 Filtered out 785 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 16:52:46,490 - INFO - 📁 RECURSIVE_BATCH_2: Added 209 new URLs to file (Total: 8170)
+2025-08-19 16:52:46,491 - INFO - [SUCCESS] Batch complete: 994 new URLs found in 106.2s
+2025-08-19 16:52:46,491 - INFO - [TOTAL] URLs discovered: 8170 | Queue: 8615
+2025-08-19 16:52:46,491 - INFO - [BATCH] Processing batch of 500 URLs (Total: 1500)
+2025-08-19 16:58:34,039 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 16:58:34,126 - INFO - ✅ Gemini API configured successfully
+2025-08-19 16:58:34,128 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...
+2025-08-19 16:59:17,207 - INFO - After sitemaps: 0 URLs (+0 new)
+2025-08-19 16:59:22,937 - INFO - After robots.txt: 0 URLs (+0 new)
+2025-08-19 16:59:22,937 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 16:59:23,505 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 17:00:03,176 - INFO - [URL_SEEDING] Task 1 found 9163 URLs
+2025-08-19 17:00:03,176 - INFO - [URL_SEEDING] Task 2 found 9163 URLs
+2025-08-19 17:00:03,182 - INFO - [URL_SEEDING] 2/2 tasks succeeded, 18326 total URLs from Common Crawl
+2025-08-19 17:00:03,478 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 17:00:03,478 - INFO - [URL_SEEDING] Seeding successful, found 7570 URLs from Common Crawl + Sitemaps
+2025-08-19 17:00:03,478 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 17:00:03,542 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:00:03,566 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 17:00:03,566 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 17:00:03,647 - INFO - After URL seeding: 7425 URLs (+7425 new)
+2025-08-19 17:00:03,647 - INFO - 🔍 Starting ENHANCED recursive crawling with Crawl4AI...
+2025-08-19 17:00:53,881 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:00:53,966 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:00:53,971 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...
+2025-08-19 17:01:37,494 - INFO - After sitemaps: 0 URLs (+0 new)
+2025-08-19 17:01:42,275 - INFO - After robots.txt: 0 URLs (+0 new)
+2025-08-19 17:01:42,275 - INFO - 🌐 Starting URL seeding discovery (Common Crawl + Enhanced Sitemaps)...
+2025-08-19 17:01:43,074 - INFO - [URL_SEEDING] Using concurrent domain-based discovery from Common Crawl and sitemaps
+2025-08-19 17:02:24,259 - INFO - [URL_SEEDING] Task 1 found 9163 URLs
+2025-08-19 17:02:24,261 - INFO - [URL_SEEDING] Task 2 found 9163 URLs
+2025-08-19 17:02:24,261 - INFO - [URL_SEEDING] 2/2 tasks succeeded, 18326 total URLs from Common Crawl
+2025-08-19 17:02:24,675 - INFO - [URL_SEEDING] Concurrent processing found 7570 candidate URLs
+2025-08-19 17:02:24,675 - INFO - [URL_SEEDING] Seeding successful, found 7570 URLs from Common Crawl + Sitemaps
+2025-08-19 17:02:24,675 - INFO - [URL_SEEDING] Adding 7570 new URLs (no pre-validation)...
+2025-08-19 17:02:24,778 - INFO - 🚫 Filtered out 145 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:02:24,813 - INFO - 📁 URL_SEEDING: Added 7425 new URLs to file (Total: 7425)
+2025-08-19 17:02:24,816 - INFO - [URL_SEEDING] Added 7425 URLs from seeding
+2025-08-19 17:02:24,958 - INFO - After URL seeding: 7425 URLs (+7425 new)
+2025-08-19 17:02:24,960 - INFO - 🔍 Starting ENHANCED recursive crawling with Crawl4AI...
+2025-08-19 17:02:24,960 - INFO - [BATCH] Processing batch of 1 URLs (Total: 1)
+2025-08-19 17:02:30,871 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (1/1)
+2025-08-19 17:02:31,210 - INFO - 🚫 Filtered out 1 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:02:31,210 - INFO - 📁 RECURSIVE_BATCH_1: Added 15 new URLs to file (Total: 7440)
+2025-08-19 17:02:31,210 - INFO - [SUCCESS] Batch complete: 16 new URLs found in 6.2s
+2025-08-19 17:02:31,210 - INFO - [TOTAL] URLs discovered: 7440 | Queue: 16
+2025-08-19 17:02:31,210 - INFO - [BATCH] Processing batch of 16 URLs (Total: 17)
+2025-08-19 17:02:50,845 - WARNING - [BATCH_RECOVERY] 3 URLs failed in this batch:
+2025-08-19 17:02:50,845 - WARNING -   - https://www.city.chuo.lg.jp/cgi-bin/advert/click_total/click.cgi?cms_area_id=1&cms_banner_id=38&cms_link_url=https%3A%2F%2Fshinjuku-reiwa.com%2F: Processing failed
+2025-08-19 17:02:50,847 - WARNING -   - https://www.city.chuo.lg.jp/cgi-bin/advert/click_total/click.cgi?cms_area_id=1&cms_banner_id=35&cms_link_url=https%3A%2F%2Flp.ej-life.com%2F: Processing failed
+2025-08-19 17:02:50,847 - WARNING -   - https://www.city.chuo.lg.jp/cgi-bin/advert/click_total/click.cgi?cms_area_id=1&cms_banner_id=36&cms_link_url=https%3A%2F%2Fwww.kurukuru.co.jp%2F%3Futm_source%3Dlocal%2Bgovernment%26utm_medium%3Drefferal%26utm_campaign%3Dbanner%26utm_id%3Dchuo: Processing failed
+2025-08-19 17:02:50,847 - INFO - [BATCH_SUCCESS] Batch success rate: 81.2% (13/16)
+2025-08-19 17:02:51,334 - INFO - 🚫 Filtered out 4 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:02:51,340 - INFO - 📁 RECURSIVE_BATCH_2: Added 108 new URLs to file (Total: 7548)
+2025-08-19 17:02:51,340 - INFO - [SUCCESS] Batch complete: 112 new URLs found in 20.1s
+2025-08-19 17:02:51,340 - INFO - [TOTAL] URLs discovered: 7548 | Queue: 112
+2025-08-19 17:02:51,340 - INFO - [BATCH] Processing batch of 112 URLs (Total: 129)
+2025-08-19 17:03:28,239 - INFO - [BATCH_SUCCESS] Batch success rate: 100.0% (112/112)
+2025-08-19 17:03:28,577 - INFO - 🚫 Filtered out 42 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:03:28,582 - INFO - 📁 RECURSIVE_BATCH_3: Added 135 new URLs to file (Total: 7683)
+2025-08-19 17:03:28,588 - INFO - [SUCCESS] Batch complete: 177 new URLs found in 37.2s
+2025-08-19 17:03:28,588 - INFO - [TOTAL] URLs discovered: 7683 | Queue: 177
+2025-08-19 17:09:17,137 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:09:17,219 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:09:49,882 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:09:49,960 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:10:37,740 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:10:37,814 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:15:40,072 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:15:40,072 - INFO - [PROXY] BrightData proxy enabled
+2025-08-19 17:16:04,436 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:16:04,436 - INFO - [PROXY] BrightData proxy enabled
+2025-08-19 17:16:04,514 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:26:30,611 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:26:30,611 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 17:26:30,691 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:27:05,745 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:27:05,745 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 17:27:05,869 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:27:35,907 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:27:35,907 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 17:27:36,003 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:33:06,859 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:33:06,859 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 17:33:06,938 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:33:46,359 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:33:46,360 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 17:33:46,451 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:34:55,287 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:34:55,289 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 17:34:55,418 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:50:47,412 - ERROR - Test error for Reuters: URLDiscoveryConfig.__init__() got an unexpected keyword argument 'batch_size'
+2025-08-19 17:50:47,422 - ERROR - Test error for TechCrunch: URLDiscoveryConfig.__init__() got an unexpected keyword argument 'batch_size'
+2025-08-19 17:50:47,422 - ERROR - Test error for Chiyoda: URLDiscoveryConfig.__init__() got an unexpected keyword argument 'batch_size'
+2025-08-19 17:51:26,762 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:51:26,762 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:51:26,830 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:51:26,830 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:51:26,830 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:51:26,913 - WARNING - [UNDETECTED] Failed to create undetected browser config: BrowserConfig.__init__() got an unexpected keyword argument 'adapter'
+2025-08-19 17:51:26,968 - ERROR - [SITEMAP] stealth browser config failed: No module named 'playwright_stealth'
+2025-08-19 17:51:27,451 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:51:27,453 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:51:27,536 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:51:27,536 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:51:27,536 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:51:27,610 - WARNING - [UNDETECTED] Failed to create undetected browser config: BrowserConfig.__init__() got an unexpected keyword argument 'adapter'
+2025-08-19 17:51:27,650 - ERROR - [SITEMAP] stealth browser config failed: No module named 'playwright_stealth'
+2025-08-19 17:51:27,781 - INFO - 🚫 Filtered out 2016 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:51:28,257 - INFO - 🚫 Filtered out 2016 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:51:31,085 - INFO - 🚫 Filtered out 2016 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:51:31,103 - INFO - 📁 SITEMAP: Added 17 new URLs to file (Total: 17)
+2025-08-19 17:51:31,717 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:51:31,732 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:51:31,805 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:51:31,805 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:51:31,805 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:51:31,870 - WARNING - [UNDETECTED] Failed to create undetected browser config: BrowserConfig.__init__() got an unexpected keyword argument 'adapter'
+2025-08-19 17:51:31,922 - ERROR - [SITEMAP] stealth browser config failed: No module named 'playwright_stealth'
+2025-08-19 17:51:32,178 - INFO - 📁 SITEMAP: Added 1 new URLs to file (Total: 1)
+2025-08-19 17:53:34,758 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:53:34,758 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:53:34,864 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:53:34,867 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:53:34,867 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:55:01,840 - ERROR - [SITEMAP] undetected browser config failed: No module named 'patchright'
+2025-08-19 17:55:02,141 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:55:02,143 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:55:02,211 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:55:02,211 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:55:02,211 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:56:24,922 - ERROR - [SITEMAP] undetected browser config failed: No module named 'patchright'
+2025-08-19 17:56:25,081 - INFO - 🚫 Filtered out 2016 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:56:25,188 - INFO - 🚫 Filtered out 2016 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:56:25,498 - INFO - 🚫 Filtered out 2016 non-HTML files (PDF, XLS, images, etc.)
+2025-08-19 17:56:25,520 - INFO - 📁 SITEMAP: Added 17 new URLs to file (Total: 17)
+2025-08-19 17:56:25,547 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 17:56:25,547 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:56:25,656 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:56:25,656 - INFO - ✅ Gemini API configured successfully
+2025-08-19 17:56:25,656 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 17:57:52,772 - ERROR - [SITEMAP] undetected browser config failed: No module named 'patchright'
+2025-08-19 17:57:52,956 - INFO - 📁 SITEMAP: Added 1 new URLs to file (Total: 1)
+2025-08-19 18:04:43,676 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 18:04:43,679 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 18:04:43,748 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:04:43,748 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:05:06,479 - ERROR - [SITEMAP] magic enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:05:10,438 - ERROR - [SITEMAP] undetected enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:05:12,356 - ERROR - [SITEMAP] combined enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:05:27,668 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 18:05:27,672 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 18:05:27,839 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:05:27,839 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:05:50,947 - ERROR - [SITEMAP] magic enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:05:52,880 - ERROR - [SITEMAP] undetected enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:05:54,764 - ERROR - [SITEMAP] combined enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:06:06,941 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 18:06:06,941 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_56b0fbb1-zone-web_scraper1:uq0iuczq95dk@brd.superproxy.io:22225
+2025-08-19 18:06:07,024 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:06:07,032 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:06:28,032 - ERROR - [SITEMAP] magic enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:06:30,000 - ERROR - [SITEMAP] undetected enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:06:31,871 - ERROR - [SITEMAP] combined enhancement failed: CrawlerRunConfig.__init__() got an unexpected keyword argument 'wait_time'
+2025-08-19 18:11:10,189 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 18:11:10,270 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:11:10,270 - INFO - ✅ Gemini API configured successfully
+2025-08-19 18:17:22,136 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-19 18:17:22,136 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-19 18:17:22,208 - INFO - ✅ Gemini API configured successfully
+2025-08-20 22:41:37,862 - INFO - 📁 Initialized real-time URL file: discovered_urls.txt
+2025-08-20 22:41:37,864 - INFO - [PROXY] BrightData proxy enabled: http://brd-customer-hl_c4d84340-zone-testingdc:l1yptwrxrmbr@brd.superproxy.io:33335
+2025-08-20 22:41:37,924 - INFO - ✅ Gemini API configured successfully
+2025-08-20 22:41:37,925 - INFO - 🚀 Starting comprehensive URL discovery with ALL methods...

@@ -1,0 +1,3856 @@
+{
+  "discovery_summary": {
+    "total_urls_discovered": 27,
+    "domains_processed": 2,
+    "discovery_duration_seconds": 13.763142108917236,
+    "urls_per_second": 1.9617613322837457,
+    "timestamp": "2025-08-20T16:10:37.590997"
+  },
+  "discovered_urls": {
+    "www.city.chiyoda.lg.jp": [
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20240802070038_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2024年8月2日 07時00分 熱中症警戒アラート",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "description": "千代田区ホームページへようこそ。千代田区公式ホームページです。",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/top_rn/style/edit.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/top_rn/style/edit_sp.css?v=20230810",
+                "type": "text/css"
+              }
+            ],
+            "alternate": [
+              {
+                "href": "/kinkyu/kinkyu.xml",
+                "type": "application/rss+xml"
+              },
+              {
+                "href": "/oshirase/oshirase.xml",
+                "type": "application/rss+xml"
+              },
+              {
+                "href": "/chumoku/chumoku.xml",
+                "type": "application/rss+xml"
+              },
+              {
+                "href": "/shinchaku/shinchaku.xml",
+                "type": "application/rss+xml"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20240927211255_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2024年9月27日 21時12分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250407082130_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月7日 08時21分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250417211815_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月17日 21時18分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250416184219_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月16日 18時42分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250420040452_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月20日 04時04分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250421040412_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月21日 04時04分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250418215136_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月18日 21時51分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/list.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 安全・安心メール",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/ebook/shigoto/jigyosho/chiyoda_2022/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "Chiyodaku_Guidebook2022 | ActiBook",
+          "charset": "utf-8",
+          "meta": {
+            "x-ua-compatible": "IE=edge,chrome=1",
+            "keywords": "Chiyodaku_Guidebook2022,電子ブック,ebook,デジタルカタログ,アクティブック,ActiBook,書籍",
+            "description": "Chiyodaku_Guidebook2022 :: ActiBook",
+            "og:title": "Chiyodaku_Guidebook2022",
+            "og:type": "book",
+            "og:description": "Chiyodaku_Guidebook2022"
+          },
+          "link": {
+            "index": [
+              {
+                "href": "./index.html"
+              }
+            ],
+            "image_src": [
+              {
+                "href": "./iPhone/cover2.jpg"
+              }
+            ],
+            "stylesheet": [
+              {
+                "href": "css/normalize.min.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/btns.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/mobile.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/pc_tablet.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/pc_tablet.css",
+                "type": "text/css"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/kenko/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 健康・福祉",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bungaku/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - ちよだ文学賞・ちよだジュニア文学賞",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bungaku/boshu.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第20回ちよだ文学賞募集の概要（募集は終了しました）",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bungaku/jusho.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第19回ちよだ文学賞 受賞作決定",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bunkashisetsu/artsquare-saiboshu.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - ちよだアートスクエア第3期運営団体の再募集【終了しました】",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bunkashisetsu/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 文化施設",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/event/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 文化イベント",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/festival/r6kaisai.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第45回文化芸術の秋フェスティバル開催",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/festival/r7kaisai.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 千代田区文化芸術フェスティバル2025（事業は終了しました）",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/joseiboshu.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 文化事業助成",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/shogaishaart/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 障害者アート支援事業",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/shogai/guidebook.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 講座・講習会",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/riyo-hojo.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 少年少女スポーツ団体スポーツ施設利用補助",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/seibi/shinsportscenter-kihonkoso.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 新スポーツセンター基本構想",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/sports-suishin.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 千代田区スポーツ推進委員",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      }
+    ],
+    "techcrunch.com": [
+      {
+        "url": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+        "status": "valid",
+        "head_data": {
+          "title": "UberConference Highlights the Issues With the Current Conference Call Services | TechCrunch",
+          "charset": "utf-8",
+          "meta": {
+            "viewport": "width=device-width, initial-scale=1",
+            "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+            "og:locale": "en_US",
+            "og:type": "article",
+            "og:title": "UberConference Highlights the Issues With the Current Conference Call Services | TechCrunch",
+            "og:description": "Recorded on May 24, 2012. TechCrunch Disrupt NY 2012 – Day 1. UberConference highlights the issues with the current conference call services.",
+            "og:url": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+            "og:site_name": "TechCrunch",
+            "article:publisher": "https://www.facebook.com/techcrunch",
+            "article:modified_time": "2024-05-11T21:43:24+00:00",
+            "og:image": "https://techcrunch.com/wp-content/uploads/2012/05/sddefault-451.jpg?w=640",
+            "og:image:width": "640",
+            "og:image:height": "480",
+            "og:image:type": "image/jpeg",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@TechCrunch",
+            "twitter:label1": "Written by",
+            "twitter:data1": "TC Video"
+          },
+          "link": {
+            "canonical": [
+              {
+                "href": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+              }
+            ],
+            "dns-prefetch": [
+              {
+                "href": "//www.google.com"
+              },
+              {
+                "href": "//public.servenobid.com"
+              },
+              {
+                "href": "//ak.sail-horizon.com"
+              },
+              {
+                "href": "//stats.wp.com"
+              },
+              {
+                "href": "//www.gstatic.com"
+              }
+            ],
+            "alternate": [
+              {
+                "href": "https://techcrunch.com/feed/",
+                "type": "application/rss+xml"
+              }
+            ]
+          },
+          "jsonld": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "NewsArticle",
+                  "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#article",
+                  "isPartOf": {
+                    "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+                  },
+                  "author": [
+                    {
+                      "@id": "https://techcrunch.com/#/schema/person/image/cc994c0c50affb4bb60a45916fec3142"
+                    }
+                  ],
+                  "headline": "UberConference Highlights the Issues With the Current Conference Call Services",
+                  "datePublished": "2012-05-24T23:01:43+00:00",
+                  "dateModified": "2024-05-11T21:43:24+00:00",
+                  "mainEntityOfPage": {
+                    "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+                  },
+                  "wordCount": 37,
+                  "publisher": {
+                    "@id": "https://techcrunch.com/#organization"
+                  },
+                  "image": {
+                    "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage"
+                  },
+                  "thumbnailUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+                  "inLanguage": "en-US",
+                  "speakable": {
+                    "@type": "SpeakableSpecification",
+                    "cssSelector": [
+                      "#speakable-summary"
+                    ]
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+                  "url": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+                  "name": "UberConference Highlights the Issues With the Current Conference Call Services | TechCrunch",
+                  "isPartOf": {
+                    "@id": "https://techcrunch.com/#website"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage"
+                  },
+                  "image": {
+                    "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage"
+                  },
+                  "thumbnailUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+                  "datePublished": "2012-05-24T23:01:43+00:00",
+                  "dateModified": "2024-05-11T21:43:24+00:00",
+                  "breadcrumb": {
+                    "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#breadcrumb"
+                  },
+                  "inLanguage": "en-US",
+                  "potentialAction": [
+                    {
+                      "@type": "ReadAction",
+                      "target": [
+                        "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "@type": "ImageObject",
+                  "inLanguage": "en-US",
+                  "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage",
+                  "url": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+                  "contentUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#breadcrumb",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://techcrunch.com/"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 2,
+                      "name": "Videos",
+                      "item": "https://techcrunch.com/video/"
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 3,
+                      "name": "UberConference Highlights the Issues With the Current Conference Call Services"
+                    }
+                  ]
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://techcrunch.com/#website",
+                  "url": "https://techcrunch.com/",
+                  "name": "TechCrunch",
+                  "description": "Startup and Technology News",
+                  "publisher": {
+                    "@id": "https://techcrunch.com/#organization"
+                  },
+                  "alternateName": "TC",
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://techcrunch.com/?s={search_term_string}"
+                      },
+                      "query-input": {
+                        "@type": "PropertyValueSpecification",
+                        "valueRequired": true,
+                        "valueName": "search_term_string"
+                      }
+                    }
+                  ],
+                  "inLanguage": "en-US"
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://techcrunch.com/#organization",
+                  "name": "TechCrunch",
+                  "alternateName": "TC",
+                  "url": "https://techcrunch.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "inLanguage": "en-US",
+                    "@id": "https://techcrunch.com/#/schema/logo/image/",
+                    "url": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+                    "contentUrl": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+                    "width": 1200,
+                    "height": 1200,
+                    "caption": "TechCrunch"
+                  },
+                  "image": {
+                    "@id": "https://techcrunch.com/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://www.facebook.com/techcrunch",
+                    "https://x.com/TechCrunch",
+                    "https://mstdn.social/@TechCrunch",
+                    "https://bsky.app/profile/techcrunch.com",
+                    "https://www.threads.net/@techcrunch"
+                  ]
+                },
+                {
+                  "@type": "VideoObject",
+                  "@id": "https://techcrunch.com/#/schema/VideoObject/2738708",
+                  "name": "UberConference Highlights the Issues With the Current Conference Call Services",
+                  "uploadDate": "2012-05-24T23:01:43+00:00",
+                  "thumbnailUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+                  "description": "Recorded on May 24, 2012. TechCrunch Disrupt NY 2012 - Day 1. UberConference highlights the issues with the current conference call services.",
+                  "duration": "PT1M53S",
+                  "embedUrl": "https://www.youtube.com/watch?v=Lw4ST6CCjD0"
+                },
+                {
+                  "@type": "Person",
+                  "@id": "https://techcrunch.com/#/schema/person/image/cc994c0c50affb4bb60a45916fec3142",
+                  "name": "TC Video",
+                  "image": {
+                    "@type": "ImageObject",
+                    "inLanguage": "en-US",
+                    "@id": "https://techcrunch.com/#/schema/person/image/466f771a29520469d8b398d6d466a7c4",
+                    "url": "https://secure.gravatar.com/avatar/bd2040d70a38e40449e2de3e69866b11?s=96&d=identicon&r=g",
+                    "contentUrl": "https://secure.gravatar.com/avatar/bd2040d70a38e40449e2de3e69866b11?s=96&d=identicon&r=g",
+                    "caption": "TC Video"
+                  },
+                  "url": "https://techcrunch.com/author/tc-video/"
+                }
+              ]
+            }
+          ]
+        },
+        "relevance_score": 1.0
+      }
+    ]
+  },
+  "sitemap_urls": {
+    "www.city.chiyoda.lg.jp": [],
+    "techcrunch.com": [
+      "https://techcrunch.com/sitemap-page-735.xml",
+      "https://techcrunch.com/sitemap-page-629.xml",
+      "https://techcrunch.com/sitemap-page-1266.xml",
+      "https://techcrunch.com/sitemap-page-412.xml",
+      "https://techcrunch.com/sitemap-page-345.xml",
+      "https://techcrunch.com/sitemap-page-1602.xml",
+      "https://techcrunch.com/sitemap-page-250.xml",
+      "https://techcrunch.com/sitemap-page-793.xml",
+      "https://techcrunch.com/sitemap-page-1129.xml",
+      "https://techcrunch.com/sitemap-page-1790.xml",
+      "https://techcrunch.com/sitemap-page-1515.xml",
+      "https://techcrunch.com/sitemap-page-1709.xml",
+      "https://techcrunch.com/sitemap-page-1878.xml",
+      "https://techcrunch.com/sitemap-page-293.xml",
+      "https://techcrunch.com/sitemap-page-586.xml",
+      "https://techcrunch.com/sitemap-page-720.xml",
+      "https://techcrunch.com/sitemap-page-750.xml",
+      "https://techcrunch.com/sitemap-page-1965.xml",
+      "https://techcrunch.com/sitemap-page-515.xml",
+      "https://techcrunch.com/sitemap-page-998.xml",
+      "https://techcrunch.com/sitemap-page-931.xml",
+      "https://techcrunch.com/sitemap-page-1901.xml",
+      "https://techcrunch.com/sitemap-page-1697.xml",
+      "https://techcrunch.com/sitemap-page-910.xml",
+      "https://techcrunch.com/sitemap-page-1352.xml",
+      "https://techcrunch.com/sitemap-page-945.xml",
+      "https://techcrunch.com/sitemap-page-1011.xml",
+      "https://techcrunch.com/sitemap-page-449.xml",
+      "https://techcrunch.com/sitemap-page-1780.xml",
+      "https://techcrunch.com/sitemap-page-16.xml",
+      "https://techcrunch.com/sitemap-page-1862.xml",
+      "https://techcrunch.com/sitemap-page-1800.xml",
+      "https://techcrunch.com/sitemap-page-57.xml",
+      "https://techcrunch.com/sitemap-page-624.xml",
+      "https://techcrunch.com/sitemap-page-1415.xml",
+      "https://techcrunch.com/sitemap-page-1905.xml",
+      "https://techcrunch.com/sitemap-page-687.xml",
+      "https://techcrunch.com/sitemap-page-1784.xml",
+      "https://techcrunch.com/sitemap-page-842.xml",
+      "https://techcrunch.com/sitemap-page-1454.xml",
+      "https://techcrunch.com/sitemap-page-148.xml",
+      "https://techcrunch.com/sitemap-page-1041.xml",
+      "https://techcrunch.com/sitemap-page-1026.xml",
+      "https://techcrunch.com/sitemap-page-853.xml",
+      "https://techcrunch.com/sitemap-page-647.xml",
+      "https://techcrunch.com/sitemap-page-317.xml",
+      "https://techcrunch.com/sitemap-page-402.xml",
+      "https://techcrunch.com/sitemap-page-1713.xml",
+      "https://techcrunch.com/sitemap-page-889.xml",
+      "https://techcrunch.com/sitemap-page-1486.xml",
+      "https://techcrunch.com/sitemap-page-207.xml",
+      "https://techcrunch.com/sitemap-page-1074.xml",
+      "https://techcrunch.com/sitemap-page-727.xml",
+      "https://techcrunch.com/sitemap-page-1523.xml",
+      "https://techcrunch.com/sitemap-page-1809.xml",
+      "https://techcrunch.com/sitemap-page-1138.xml",
+      "https://techcrunch.com/sitemap-page-1962.xml",
+      "https://techcrunch.com/sitemap-page-104.xml",
+      "https://techcrunch.com/sitemap-page-50.xml",
+      "https://techcrunch.com/sitemap-page-501.xml",
+      "https://techcrunch.com/sitemap-page-491.xml",
+      "https://techcrunch.com/sitemap-page-15.xml",
+      "https://techcrunch.com/sitemap-page-232.xml",
+      "https://techcrunch.com/sitemap-page-1226.xml",
+      "https://techcrunch.com/sitemap-page-712.xml",
+      "https://techcrunch.com/sitemap-page-718.xml",
+      "https://techcrunch.com/sitemap-page-690.xml",
+      "https://techcrunch.com/sitemap-page-627.xml",
+      "https://techcrunch.com/sitemap-page-1601.xml",
+      "https://techcrunch.com/sitemap-page-1967.xml",
+      "https://techcrunch.com/sitemap-page-176.xml",
+      "https://techcrunch.com/sitemap-page-1769.xml",
+      "https://techcrunch.com/sitemap-page-981.xml",
+      "https://techcrunch.com/sitemap-page-1660.xml",
+      "https://techcrunch.com/sitemap-page-752.xml",
+      "https://techcrunch.com/sitemap-page-766.xml",
+      "https://techcrunch.com/sitemap-page-972.xml",
+      "https://techcrunch.com/sitemap-page-1265.xml",
+      "https://techcrunch.com/sitemap-page-1425.xml",
+      "https://techcrunch.com/sitemap-page-1002.xml",
+      "https://techcrunch.com/sitemap-page-942.xml",
+      "https://techcrunch.com/sitemap-page-478.xml",
+      "https://techcrunch.com/sitemap-page-259.xml",
+      "https://techcrunch.com/sitemap-page-78.xml",
+      "https://techcrunch.com/sitemap-page-653.xml",
+      "https://techcrunch.com/sitemap-page-1768.xml",
+      "https://techcrunch.com/sitemap-page-951.xml",
+      "https://techcrunch.com/sitemap-page-1850.xml",
+      "https://techcrunch.com/sitemap-page-1812.xml",
+      "https://techcrunch.com/sitemap-page-1652.xml",
+      "https://techcrunch.com/sitemap-page-1571.xml",
+      "https://techcrunch.com/sitemap-page-1232.xml",
+      "https://techcrunch.com/sitemap-page-312.xml",
+      "https://techcrunch.com/sitemap-page-522.xml",
+      "https://techcrunch.com/sitemap-page-1591.xml",
+      "https://techcrunch.com/sitemap-page-1197.xml",
+      "https://techcrunch.com/sitemap-page-1171.xml",
+      "https://techcrunch.com/sitemap-page-1877.xml",
+      "https://techcrunch.com/sitemap-page-1385.xml",
+      "https://techcrunch.com/sitemap-page-1857.xml",
+      "https://techcrunch.com/sitemap-page-529.xml",
+      "https://techcrunch.com/sitemap-page-884.xml",
+      "https://techcrunch.com/sitemap-page-286.xml",
+      "https://techcrunch.com/sitemap-page-1670.xml",
+      "https://techcrunch.com/sitemap-page-1572.xml",
+      "https://techcrunch.com/sitemap-page-193.xml",
+      "https://techcrunch.com/sitemap-page-1587.xml",
+      "https://techcrunch.com/sitemap-page-1663.xml",
+      "https://techcrunch.com/sitemap-page-469.xml",
+      "https://techcrunch.com/sitemap-page-1351.xml",
+      "https://techcrunch.com/sitemap-page-88.xml",
+      "https://techcrunch.com/sitemap-page-1220.xml",
+      "https://techcrunch.com/sitemap-page-1989.xml",
+      "https://techcrunch.com/sitemap-page-376.xml",
+      "https://techcrunch.com/sitemap-page-1507.xml",
+      "https://techcrunch.com/sitemap-page-550.xml",
+      "https://techcrunch.com/sitemap-page-1305.xml",
+      "https://techcrunch.com/sitemap-page-315.xml",
+      "https://techcrunch.com/sitemap-page-764.xml",
+      "https://techcrunch.com/sitemap-page-971.xml",
+      "https://techcrunch.com/sitemap-page-585.xml",
+      "https://techcrunch.com/sitemap-page-838.xml",
+      "https://techcrunch.com/sitemap-page-852.xml",
+      "https://techcrunch.com/sitemap-page-1306.xml",
+      "https://techcrunch.com/sitemap-page-1336.xml",
+      "https://techcrunch.com/sitemap-page-618.xml",
+      "https://techcrunch.com/sitemap-page-180.xml",
+      "https://techcrunch.com/sitemap-page-523.xml",
+      "https://techcrunch.com/sitemap-page-1223.xml",
+      "https://techcrunch.com/sitemap-page-58.xml",
+      "https://techcrunch.com/sitemap-page-553.xml",
+      "https://techcrunch.com/sitemap-page-513.xml",
+      "https://techcrunch.com/sitemap-page-797.xml",
+      "https://techcrunch.com/sitemap-page-316.xml",
+      "https://techcrunch.com/sitemap-page-598.xml",
+      "https://techcrunch.com/sitemap-page-1796.xml",
+      "https://techcrunch.com/sitemap-page-416.xml",
+      "https://techcrunch.com/sitemap-page-929.xml",
+      "https://techcrunch.com/sitemap-page-234.xml",
+      "https://techcrunch.com/sitemap-page-571.xml",
+      "https://techcrunch.com/sitemap-page-614.xml",
+      "https://techcrunch.com/sitemap-page-904.xml",
+      "https://techcrunch.com/sitemap-page-625.xml",
+      "https://techcrunch.com/sitemap-page-1604.xml",
+      "https://techcrunch.com/sitemap-page-1147.xml",
+      "https://techcrunch.com/sitemap-page-1791.xml",
+      "https://techcrunch.com/sitemap-page-1580.xml",
+      "https://techcrunch.com/sitemap-page-1078.xml",
+      "https://techcrunch.com/sitemap-page-1848.xml",
+      "https://techcrunch.com/sitemap-page-2007.xml",
+      "https://techcrunch.com/sitemap-page-1143.xml",
+      "https://techcrunch.com/sitemap-page-1130.xml",
+      "https://techcrunch.com/sitemap-page-1219.xml",
+      "https://techcrunch.com/sitemap-page-1807.xml",
+      "https://techcrunch.com/sitemap-page-648.xml",
+      "https://techcrunch.com/sitemap-page-749.xml",
+      "https://techcrunch.com/sitemap-page-460.xml",
+      "https://techcrunch.com/sitemap-page-758.xml",
+      "https://techcrunch.com/sitemap-page-1782.xml",
+      "https://techcrunch.com/sitemap-page-37.xml",
+      "https://techcrunch.com/sitemap-page-159.xml",
+      "https://techcrunch.com/sitemap-page-283.xml",
+      "https://techcrunch.com/sitemap-page-1335.xml",
+      "https://techcrunch.com/sitemap-page-1566.xml",
+      "https://techcrunch.com/sitemap-page-1868.xml",
+      "https://techcrunch.com/sitemap-page-1855.xml",
+      "https://techcrunch.com/sitemap-page-1823.xml",
+      "https://techcrunch.com/sitemap-page-1521.xml",
+      "https://techcrunch.com/sitemap-page-2009.xml",
+      "https://techcrunch.com/sitemap-page-728.xml",
+      "https://techcrunch.com/sitemap-page-1644.xml",
+      "https://techcrunch.com/sitemap-page-855.xml",
+      "https://techcrunch.com/sitemap-page-984.xml",
+      "https://techcrunch.com/sitemap-page-1702.xml",
+      "https://techcrunch.com/sitemap-page-334.xml",
+      "https://techcrunch.com/sitemap-page-507.xml",
+      "https://techcrunch.com/sitemap-page-1003.xml",
+      "https://techcrunch.com/sitemap-page-1682.xml",
+      "https://techcrunch.com/sitemap-page-695.xml",
+      "https://techcrunch.com/sitemap-page-1358.xml",
+      "https://techcrunch.com/sitemap-page-656.xml",
+      "https://techcrunch.com/sitemap-page-422.xml",
+      "https://techcrunch.com/sitemap-page-1582.xml",
+      "https://techcrunch.com/sitemap-page-570.xml",
+      "https://techcrunch.com/sitemap-page-685.xml",
+      "https://techcrunch.com/sitemap-page-1976.xml",
+      "https://techcrunch.com/sitemap-page-1072.xml",
+      "https://techcrunch.com/sitemap-page-1156.xml",
+      "https://techcrunch.com/sitemap-page-1346.xml",
+      "https://techcrunch.com/sitemap-page-1075.xml",
+      "https://techcrunch.com/sitemap-page-2005.xml",
+      "https://techcrunch.com/sitemap-page-1641.xml",
+      "https://techcrunch.com/sitemap-page-242.xml",
+      "https://techcrunch.com/sitemap-page-1006.xml",
+      "https://techcrunch.com/sitemap-page-1221.xml",
+      "https://techcrunch.com/sitemap-page-1700.xml",
+      "https://techcrunch.com/sitemap-page-1624.xml",
+      "https://techcrunch.com/sitemap-page-539.xml",
+      "https://techcrunch.com/sitemap-page-767.xml",
+      "https://techcrunch.com/sitemap-page-1314.xml",
+      "https://techcrunch.com/sitemap-page-256.xml",
+      "https://techcrunch.com/sitemap-page-1121.xml",
+      "https://techcrunch.com/sitemap-page-949.xml",
+      "https://techcrunch.com/sitemap-page-1286.xml",
+      "https://techcrunch.com/sitemap-page-448.xml",
+      "https://techcrunch.com/sitemap-page-859.xml",
+      "https://techcrunch.com/sitemap-page-1755.xml",
+      "https://techcrunch.com/sitemap-page-1248.xml",
+      "https://techcrunch.com/sitemap-page-815.xml",
+      "https://techcrunch.com/sitemap-page-475.xml",
+      "https://techcrunch.com/sitemap-page-1612.xml",
+      "https://techcrunch.com/sitemap-page-1973.xml",
+      "https://techcrunch.com/sitemap-page-217.xml",
+      "https://techcrunch.com/sitemap-page-1534.xml",
+      "https://techcrunch.com/sitemap-page-1757.xml",
+      "https://techcrunch.com/sitemap-page-719.xml",
+      "https://techcrunch.com/sitemap-page-826.xml",
+      "https://techcrunch.com/sitemap-page-1693.xml",
+      "https://techcrunch.com/sitemap-page-1684.xml",
+      "https://techcrunch.com/sitemap-page-457.xml",
+      "https://techcrunch.com/sitemap-page-310.xml",
+      "https://techcrunch.com/sitemap-page-1004.xml",
+      "https://techcrunch.com/sitemap-page-1036.xml",
+      "https://techcrunch.com/sitemap-page-1209.xml",
+      "https://techcrunch.com/sitemap-page-1630.xml",
+      "https://techcrunch.com/sitemap-page-189.xml",
+      "https://techcrunch.com/sitemap-page-468.xml",
+      "https://techcrunch.com/sitemap-page-733.xml",
+      "https://techcrunch.com/sitemap-page-1606.xml",
+      "https://techcrunch.com/sitemap-page-1859.xml",
+      "https://techcrunch.com/sitemap-page-1196.xml",
+      "https://techcrunch.com/sitemap-page-1715.xml",
+      "https://techcrunch.com/sitemap-page-795.xml",
+      "https://techcrunch.com/sitemap-page-47.xml",
+      "https://techcrunch.com/sitemap-page-936.xml",
+      "https://techcrunch.com/sitemap-page-1343.xml",
+      "https://techcrunch.com/sitemap-page-431.xml",
+      "https://techcrunch.com/sitemap-page-124.xml",
+      "https://techcrunch.com/sitemap-page-154.xml",
+      "https://techcrunch.com/sitemap-page-1647.xml",
+      "https://techcrunch.com/sitemap-page-915.xml",
+      "https://techcrunch.com/sitemap-page-314.xml",
+      "https://techcrunch.com/sitemap-page-873.xml",
+      "https://techcrunch.com/sitemap-page-120.xml",
+      "https://techcrunch.com/sitemap-page-182.xml",
+      "https://techcrunch.com/sitemap-page-655.xml",
+      "https://techcrunch.com/sitemap-page-843.xml",
+      "https://techcrunch.com/sitemap-page-1407.xml",
+      "https://techcrunch.com/sitemap-page-796.xml",
+      "https://techcrunch.com/sitemap-page-20.xml",
+      "https://techcrunch.com/sitemap-page-1984.xml",
+      "https://techcrunch.com/sitemap-page-254.xml",
+      "https://techcrunch.com/sitemap-page-230.xml",
+      "https://techcrunch.com/sitemap-page-214.xml",
+      "https://techcrunch.com/sitemap-page-1843.xml",
+      "https://techcrunch.com/sitemap-page-498.xml",
+      "https://techcrunch.com/sitemap-page-1064.xml",
+      "https://techcrunch.com/sitemap-page-688.xml",
+      "https://techcrunch.com/sitemap-page-1127.xml",
+      "https://techcrunch.com/sitemap-page-751.xml",
+      "https://techcrunch.com/sitemap-page-1005.xml",
+      "https://techcrunch.com/sitemap-page-1954.xml",
+      "https://techcrunch.com/sitemap-page-1526.xml",
+      "https://techcrunch.com/sitemap-page-1808.xml",
+      "https://techcrunch.com/sitemap-page-846.xml",
+      "https://techcrunch.com/sitemap-page-488.xml",
+      "https://techcrunch.com/sitemap-page-269.xml",
+      "https://techcrunch.com/sitemap-page-1811.xml",
+      "https://techcrunch.com/sitemap-page-1260.xml",
+      "https://techcrunch.com/sitemap-page-1019.xml",
+      "https://techcrunch.com/sitemap-page-698.xml",
+      "https://techcrunch.com/sitemap-page-1045.xml",
+      "https://techcrunch.com/sitemap-page-1464.xml",
+      "https://techcrunch.com/sitemap-page-1552.xml",
+      "https://techcrunch.com/sitemap-page-1640.xml",
+      "https://techcrunch.com/sitemap-page-1339.xml",
+      "https://techcrunch.com/sitemap-page-963.xml",
+      "https://techcrunch.com/sitemap-page-170.xml",
+      "https://techcrunch.com/sitemap-page-503.xml",
+      "https://techcrunch.com/sitemap-page-1073.xml",
+      "https://techcrunch.com/sitemap-page-424.xml",
+      "https://techcrunch.com/sitemap-page-1054.xml",
+      "https://techcrunch.com/sitemap-page-1675.xml",
+      "https://techcrunch.com/sitemap-page-7.xml",
+      "https://techcrunch.com/sitemap-page-922.xml",
+      "https://techcrunch.com/sitemap-page-526.xml",
+      "https://techcrunch.com/sitemap-page-355.xml",
+      "https://techcrunch.com/sitemap-page-1589.xml",
+      "https://techcrunch.com/sitemap-page-1027.xml",
+      "https://techcrunch.com/sitemap-page-275.xml",
+      "https://techcrunch.com/sitemap-page-38.xml",
+      "https://techcrunch.com/sitemap-page-272.xml",
+      "https://techcrunch.com/sitemap-page-1186.xml",
+      "https://techcrunch.com/sitemap-page-397.xml",
+      "https://techcrunch.com/sitemap-page-928.xml",
+      "https://techcrunch.com/sitemap-page-732.xml",
+      "https://techcrunch.com/sitemap-page-783.xml",
+      "https://techcrunch.com/sitemap-page-1617.xml",
+      "https://techcrunch.com/sitemap-page-59.xml",
+      "https://techcrunch.com/sitemap-page-917.xml",
+      "https://techcrunch.com/sitemap-page-76.xml",
+      "https://techcrunch.com/sitemap-page-868.xml",
+      "https://techcrunch.com/sitemap-page-1150.xml",
+      "https://techcrunch.com/sitemap-page-1000.xml",
+      "https://techcrunch.com/sitemap-page-1519.xml",
+      "https://techcrunch.com/sitemap-page-875.xml",
+      "https://techcrunch.com/sitemap-page-1546.xml",
+      "https://techcrunch.com/sitemap-page-144.xml",
+      "https://techcrunch.com/sitemap-page-1087.xml",
+      "https://techcrunch.com/sitemap-page-171.xml",
+      "https://techcrunch.com/sitemap-page-504.xml",
+      "https://techcrunch.com/sitemap-page-1412.xml",
+      "https://techcrunch.com/sitemap-page-462.xml",
+      "https://techcrunch.com/sitemap-page-635.xml",
+      "https://techcrunch.com/sitemap-page-979.xml",
+      "https://techcrunch.com/sitemap-page-1423.xml",
+      "https://techcrunch.com/sitemap-page-2000.xml",
+      "https://techcrunch.com/sitemap-page-253.xml",
+      "https://techcrunch.com/sitemap-page-1187.xml",
+      "https://techcrunch.com/sitemap-page-486.xml",
+      "https://techcrunch.com/sitemap-page-423.xml",
+      "https://techcrunch.com/sitemap-page-682.xml",
+      "https://techcrunch.com/sitemap-page-1654.xml",
+      "https://techcrunch.com/sitemap-page-499.xml",
+      "https://techcrunch.com/sitemap-page-1025.xml",
+      "https://techcrunch.com/sitemap-page-367.xml",
+      "https://techcrunch.com/sitemap-page-1067.xml",
+      "https://techcrunch.com/sitemap-page-1813.xml",
+      "https://techcrunch.com/sitemap-page-1493.xml",
+      "https://techcrunch.com/sitemap-page-1349.xml",
+      "https://techcrunch.com/sitemap-page-1116.xml",
+      "https://techcrunch.com/sitemap-page-1600.xml",
+      "https://techcrunch.com/sitemap-page-1247.xml",
+      "https://techcrunch.com/sitemap-page-55.xml",
+      "https://techcrunch.com/sitemap-page-996.xml",
+      "https://techcrunch.com/sitemap-page-333.xml",
+      "https://techcrunch.com/sitemap-page-84.xml",
+      "https://techcrunch.com/sitemap-page-1296.xml",
+      "https://techcrunch.com/sitemap-page-1100.xml",
+      "https://techcrunch.com/sitemap-page-1648.xml",
+      "https://techcrunch.com/sitemap-page-1884.xml",
+      "https://techcrunch.com/sitemap-page-983.xml",
+      "https://techcrunch.com/sitemap-page-926.xml",
+      "https://techcrunch.com/sitemap-page-1405.xml",
+      "https://techcrunch.com/sitemap-page-421.xml",
+      "https://techcrunch.com/sitemap-page-1028.xml",
+      "https://techcrunch.com/sitemap-page-535.xml",
+      "https://techcrunch.com/sitemap-page-671.xml",
+      "https://techcrunch.com/sitemap-page-1184.xml",
+      "https://techcrunch.com/sitemap-page-1661.xml",
+      "https://techcrunch.com/sitemap-page-1251.xml",
+      "https://techcrunch.com/sitemap-page-177.xml",
+      "https://techcrunch.com/sitemap-page-1508.xml",
+      "https://techcrunch.com/sitemap-page-1554.xml",
+      "https://techcrunch.com/sitemap-page-731.xml",
+      "https://techcrunch.com/sitemap-page-1683.xml",
+      "https://techcrunch.com/sitemap-page-1313.xml",
+      "https://techcrunch.com/sitemap-page-788.xml",
+      "https://techcrunch.com/sitemap-page-1091.xml",
+      "https://techcrunch.com/sitemap-page-1827.xml",
+      "https://techcrunch.com/sitemap-page-702.xml",
+      "https://techcrunch.com/sitemap-page-1664.xml",
+      "https://techcrunch.com/sitemap-page-1775.xml",
+      "https://techcrunch.com/sitemap-page-772.xml",
+      "https://techcrunch.com/sitemap-page-12.xml",
+      "https://techcrunch.com/sitemap-page-328.xml",
+      "https://techcrunch.com/sitemap-page-1595.xml",
+      "https://techcrunch.com/sitemap-page-615.xml",
+      "https://techcrunch.com/sitemap-page-1978.xml",
+      "https://techcrunch.com/sitemap-page-866.xml",
+      "https://techcrunch.com/sitemap-page-1758.xml",
+      "https://techcrunch.com/sitemap-page-833.xml",
+      "https://techcrunch.com/sitemap-page-375.xml",
+      "https://techcrunch.com/sitemap-page-743.xml",
+      "https://techcrunch.com/sitemap-page-754.xml",
+      "https://techcrunch.com/sitemap-page-36.xml",
+      "https://techcrunch.com/sitemap-page-1126.xml",
+      "https://techcrunch.com/sitemap-page-2003.xml",
+      "https://techcrunch.com/sitemap-page-1115.xml",
+      "https://techcrunch.com/sitemap-page-13.xml",
+      "https://techcrunch.com/sitemap-page-1489.xml",
+      "https://techcrunch.com/sitemap-page-1778.xml",
+      "https://techcrunch.com/sitemap-page-1079.xml",
+      "https://techcrunch.com/sitemap-page-1185.xml",
+      "https://techcrunch.com/sitemap-page-798.xml",
+      "https://techcrunch.com/sitemap-page-1328.xml",
+      "https://techcrunch.com/sitemap-page-1445.xml",
+      "https://techcrunch.com/sitemap-page-1795.xml",
+      "https://techcrunch.com/sitemap-page-458.xml",
+      "https://techcrunch.com/sitemap-page-1899.xml",
+      "https://techcrunch.com/sitemap-page-1477.xml",
+      "https://techcrunch.com/sitemap-page-1124.xml",
+      "https://techcrunch.com/sitemap-page-138.xml",
+      "https://techcrunch.com/sitemap-page-1333.xml",
+      "https://techcrunch.com/sitemap-page-1794.xml",
+      "https://techcrunch.com/sitemap-page-1178.xml",
+      "https://techcrunch.com/sitemap-page-1853.xml",
+      "https://techcrunch.com/sitemap-page-1893.xml",
+      "https://techcrunch.com/sitemap-page-930.xml",
+      "https://techcrunch.com/sitemap-page-156.xml",
+      "https://techcrunch.com/sitemap-page-1080.xml",
+      "https://techcrunch.com/sitemap-page-1665.xml",
+      "https://techcrunch.com/sitemap-page-1510.xml",
+      "https://techcrunch.com/sitemap-page-1374.xml",
+      "https://techcrunch.com/sitemap-page-1692.xml",
+      "https://techcrunch.com/sitemap-page-1229.xml",
+      "https://techcrunch.com/sitemap-page-393.xml",
+      "https://techcrunch.com/sitemap-page-1382.xml",
+      "https://techcrunch.com/sitemap-page-1514.xml",
+      "https://techcrunch.com/sitemap-page-1097.xml",
+      "https://techcrunch.com/sitemap-page-822.xml",
+      "https://techcrunch.com/sitemap-page-540.xml",
+      "https://techcrunch.com/sitemap-page-1942.xml",
+      "https://techcrunch.com/sitemap-page-160.xml",
+      "https://techcrunch.com/sitemap-page-1128.xml",
+      "https://techcrunch.com/sitemap-page-221.xml",
+      "https://techcrunch.com/sitemap-page-1373.xml",
+      "https://techcrunch.com/sitemap-page-1762.xml",
+      "https://techcrunch.com/sitemap-page-1522.xml",
+      "https://techcrunch.com/sitemap-page-1741.xml",
+      "https://techcrunch.com/sitemap-page-1570.xml",
+      "https://techcrunch.com/sitemap-page-1318.xml",
+      "https://techcrunch.com/sitemap-page-377.xml",
+      "https://techcrunch.com/sitemap-page-99.xml",
+      "https://techcrunch.com/sitemap-page-92.xml",
+      "https://techcrunch.com/sitemap-page-1302.xml",
+      "https://techcrunch.com/sitemap-page-1720.xml",
+      "https://techcrunch.com/sitemap-page-492.xml",
+      "https://techcrunch.com/sitemap-page-1467.xml",
+      "https://techcrunch.com/sitemap-page-1543.xml",
+      "https://techcrunch.com/sitemap-page-341.xml",
+      "https://techcrunch.com/sitemap-page-251.xml",
+      "https://techcrunch.com/sitemap-page-872.xml",
+      "https://techcrunch.com/sitemap-page-165.xml",
+      "https://techcrunch.com/sitemap-page-1504.xml",
+      "https://techcrunch.com/sitemap-page-556.xml",
+      "https://techcrunch.com/sitemap-page-771.xml",
+      "https://techcrunch.com/sitemap-page-295.xml",
+      "https://techcrunch.com/sitemap-page-1476.xml",
+      "https://techcrunch.com/sitemap-page-1300.xml",
+      "https://techcrunch.com/sitemap-page-1583.xml",
+      "https://techcrunch.com/sitemap-page-1825.xml",
+      "https://techcrunch.com/sitemap-page-1955.xml",
+      "https://techcrunch.com/sitemap-page-1846.xml",
+      "https://techcrunch.com/sitemap-page-1438.xml",
+      "https://techcrunch.com/sitemap-page-352.xml",
+      "https://techcrunch.com/sitemap-page-641.xml",
+      "https://techcrunch.com/sitemap-page-1886.xml",
+      "https://techcrunch.com/sitemap-page-978.xml",
+      "https://techcrunch.com/sitemap-page-1622.xml",
+      "https://techcrunch.com/sitemap-page-1177.xml",
+      "https://techcrunch.com/sitemap-page-224.xml",
+      "https://techcrunch.com/sitemap-page-1033.xml",
+      "https://techcrunch.com/sitemap-page-481.xml",
+      "https://techcrunch.com/sitemap-page-11.xml",
+      "https://techcrunch.com/sitemap-page-787.xml",
+      "https://techcrunch.com/sitemap-page-893.xml",
+      "https://techcrunch.com/sitemap-page-27.xml",
+      "https://techcrunch.com/sitemap-page-1245.xml",
+      "https://techcrunch.com/sitemap-page-1667.xml",
+      "https://techcrunch.com/sitemap-page-887.xml",
+      "https://techcrunch.com/sitemap-page-986.xml",
+      "https://techcrunch.com/sitemap-page-813.xml",
+      "https://techcrunch.com/sitemap-page-1869.xml",
+      "https://techcrunch.com/sitemap-page-2004.xml",
+      "https://techcrunch.com/sitemap-page-845.xml",
+      "https://techcrunch.com/sitemap-page-1231.xml",
+      "https://techcrunch.com/sitemap-page-1858.xml",
+      "https://techcrunch.com/sitemap-page-329.xml",
+      "https://techcrunch.com/sitemap-page-547.xml",
+      "https://techcrunch.com/sitemap-page-1402.xml",
+      "https://techcrunch.com/sitemap-page-676.xml",
+      "https://techcrunch.com/sitemap-page-1104.xml",
+      "https://techcrunch.com/sitemap-page-785.xml",
+      "https://techcrunch.com/sitemap-page-675.xml",
+      "https://techcrunch.com/sitemap-page-894.xml",
+      "https://techcrunch.com/sitemap-page-736.xml",
+      "https://techcrunch.com/sitemap-page-184.xml",
+      "https://techcrunch.com/sitemap-page-1095.xml",
+      "https://techcrunch.com/sitemap-page-716.xml",
+      "https://techcrunch.com/sitemap-page-208.xml",
+      "https://techcrunch.com/sitemap-page-1719.xml",
+      "https://techcrunch.com/sitemap-page-806.xml",
+      "https://techcrunch.com/sitemap-page-990.xml",
+      "https://techcrunch.com/sitemap-page-489.xml",
+      "https://techcrunch.com/sitemap-page-658.xml",
+      "https://techcrunch.com/sitemap-page-87.xml",
+      "https://techcrunch.com/sitemap-page-419.xml",
+      "https://techcrunch.com/sitemap-page-844.xml",
+      "https://techcrunch.com/sitemap-page-1297.xml",
+      "https://techcrunch.com/sitemap-page-895.xml",
+      "https://techcrunch.com/sitemap-page-1889.xml",
+      "https://techcrunch.com/sitemap-page-183.xml",
+      "https://techcrunch.com/sitemap-page-1472.xml",
+      "https://techcrunch.com/sitemap-page-1139.xml",
+      "https://techcrunch.com/sitemap-page-1830.xml",
+      "https://techcrunch.com/sitemap-page-1695.xml",
+      "https://techcrunch.com/sitemap-page-1023.xml",
+      "https://techcrunch.com/sitemap-page-1499.xml",
+      "https://techcrunch.com/sitemap-page-1049.xml",
+      "https://techcrunch.com/sitemap-page-394.xml",
+      "https://techcrunch.com/sitemap-page-464.xml",
+      "https://techcrunch.com/sitemap-page-1953.xml",
+      "https://techcrunch.com/sitemap-page-330.xml",
+      "https://techcrunch.com/sitemap-page-1441.xml",
+      "https://techcrunch.com/sitemap-page-1182.xml",
+      "https://techcrunch.com/sitemap-page-1409.xml",
+      "https://techcrunch.com/sitemap-page-1772.xml",
+      "https://techcrunch.com/sitemap-page-4.xml",
+      "https://techcrunch.com/sitemap-page-704.xml",
+      "https://techcrunch.com/sitemap-page-268.xml",
+      "https://techcrunch.com/sitemap-page-277.xml",
+      "https://techcrunch.com/sitemap-page-1298.xml",
+      "https://techcrunch.com/sitemap-page-1416.xml",
+      "https://techcrunch.com/sitemap-page-516.xml",
+      "https://techcrunch.com/sitemap-page-1010.xml",
+      "https://techcrunch.com/sitemap-page-832.xml",
+      "https://techcrunch.com/sitemap-page-1315.xml",
+      "https://techcrunch.com/sitemap-page-1547.xml",
+      "https://techcrunch.com/sitemap-page-939.xml",
+      "https://techcrunch.com/sitemap-page-857.xml",
+      "https://techcrunch.com/sitemap-page-1564.xml",
+      "https://techcrunch.com/sitemap-page-1939.xml",
+      "https://techcrunch.com/sitemap-page-1106.xml",
+      "https://techcrunch.com/sitemap-page-1340.xml",
+      "https://techcrunch.com/sitemap-page-2006.xml",
+      "https://techcrunch.com/sitemap-page-101.xml",
+      "https://techcrunch.com/sitemap-page-811.xml",
+      "https://techcrunch.com/sitemap-page-538.xml",
+      "https://techcrunch.com/sitemap-page-48.xml",
+      "https://techcrunch.com/sitemap-page-836.xml",
+      "https://techcrunch.com/sitemap-page-567.xml",
+      "https://techcrunch.com/sitemap-page-162.xml",
+      "https://techcrunch.com/sitemap-page-1933.xml",
+      "https://techcrunch.com/sitemap-page-479.xml",
+      "https://techcrunch.com/sitemap-page-1261.xml",
+      "https://techcrunch.com/sitemap-page-879.xml",
+      "https://techcrunch.com/sitemap-page-689.xml",
+      "https://techcrunch.com/sitemap-page-1494.xml",
+      "https://techcrunch.com/sitemap-page-1436.xml",
+      "https://techcrunch.com/sitemap-page-715.xml",
+      "https://techcrunch.com/sitemap-page-1632.xml",
+      "https://techcrunch.com/sitemap-page-517.xml",
+      "https://techcrunch.com/sitemap-page-216.xml",
+      "https://techcrunch.com/sitemap-page-1781.xml",
+      "https://techcrunch.com/sitemap-page-41.xml",
+      "https://techcrunch.com/sitemap-page-289.xml",
+      "https://techcrunch.com/sitemap-page-759.xml",
+      "https://techcrunch.com/sitemap-page-808.xml",
+      "https://techcrunch.com/sitemap-page-1242.xml",
+      "https://techcrunch.com/sitemap-page-1621.xml",
+      "https://techcrunch.com/sitemap-page-1017.xml",
+      "https://techcrunch.com/sitemap-page-417.xml",
+      "https://techcrunch.com/sitemap-page-955.xml",
+      "https://techcrunch.com/sitemap-page-1371.xml",
+      "https://techcrunch.com/sitemap-page-384.xml",
+      "https://techcrunch.com/sitemap-page-19.xml",
+      "https://techcrunch.com/sitemap-page-1992.xml",
+      "https://techcrunch.com/sitemap-page-388.xml",
+      "https://techcrunch.com/sitemap-page-239.xml",
+      "https://techcrunch.com/sitemap-page-1860.xml",
+      "https://techcrunch.com/sitemap-page-1631.xml",
+      "https://techcrunch.com/sitemap-page-1285.xml",
+      "https://techcrunch.com/sitemap-page-865.xml",
+      "https://techcrunch.com/sitemap-page-1696.xml",
+      "https://techcrunch.com/sitemap-page-304.xml",
+      "https://techcrunch.com/sitemap-page-960.xml",
+      "https://techcrunch.com/sitemap-page-1574.xml",
+      "https://techcrunch.com/sitemap-page-390.xml",
+      "https://techcrunch.com/sitemap-page-1614.xml",
+      "https://techcrunch.com/sitemap-page-1308.xml",
+      "https://techcrunch.com/sitemap-page-1787.xml",
+      "https://techcrunch.com/sitemap-page-827.xml",
+      "https://techcrunch.com/sitemap-page-1943.xml",
+      "https://techcrunch.com/sitemap-page-511.xml",
+      "https://techcrunch.com/sitemap-page-810.xml",
+      "https://techcrunch.com/sitemap-page-558.xml",
+      "https://techcrunch.com/sitemap-page-1092.xml",
+      "https://techcrunch.com/sitemap-page-723.xml",
+      "https://techcrunch.com/sitemap-page-1727.xml",
+      "https://techcrunch.com/sitemap-page-1921.xml",
+      "https://techcrunch.com/sitemap-page-342.xml",
+      "https://techcrunch.com/sitemap-page-361.xml",
+      "https://techcrunch.com/sitemap-page-1270.xml",
+      "https://techcrunch.com/sitemap-page-263.xml",
+      "https://techcrunch.com/sitemap-page-877.xml",
+      "https://techcrunch.com/sitemap-page-1495.xml",
+      "https://techcrunch.com/sitemap-page-1774.xml",
+      "https://techcrunch.com/sitemap-page-599.xml",
+      "https://techcrunch.com/sitemap-page-1642.xml",
+      "https://techcrunch.com/sitemap-page-1325.xml",
+      "https://techcrunch.com/sitemap-page-1063.xml",
+      "https://techcrunch.com/sitemap-page-1735.xml",
+      "https://techcrunch.com/sitemap-page-1990.xml",
+      "https://techcrunch.com/sitemap-page-1096.xml",
+      "https://techcrunch.com/sitemap-page-1094.xml",
+      "https://techcrunch.com/sitemap-page-364.xml",
+      "https://techcrunch.com/sitemap-page-1042.xml",
+      "https://techcrunch.com/sitemap-page-1427.xml",
+      "https://techcrunch.com/sitemap-page-1513.xml",
+      "https://techcrunch.com/sitemap-page-1926.xml",
+      "https://techcrunch.com/sitemap-page-1824.xml",
+      "https://techcrunch.com/sitemap-page-299.xml",
+      "https://techcrunch.com/sitemap-page-440.xml",
+      "https://techcrunch.com/sitemap-page-1375.xml",
+      "https://techcrunch.com/sitemap-page-1917.xml",
+      "https://techcrunch.com/sitemap-page-537.xml",
+      "https://techcrunch.com/sitemap-page-1273.xml",
+      "https://techcrunch.com/sitemap-page-871.xml",
+      "https://techcrunch.com/sitemap-page-66.xml",
+      "https://techcrunch.com/sitemap-page-1312.xml",
+      "https://techcrunch.com/sitemap-page-1451.xml",
+      "https://techcrunch.com/sitemap-page-1216.xml",
+      "https://techcrunch.com/sitemap-page-494.xml",
+      "https://techcrunch.com/sitemap-page-1483.xml",
+      "https://techcrunch.com/sitemap-page-757.xml",
+      "https://techcrunch.com/sitemap-page-1704.xml",
+      "https://techcrunch.com/sitemap-page-1435.xml",
+      "https://techcrunch.com/sitemap-page-834.xml",
+      "https://techcrunch.com/sitemap-page-1777.xml",
+      "https://techcrunch.com/sitemap-page-1799.xml",
+      "https://techcrunch.com/sitemap-page-319.xml",
+      "https://techcrunch.com/sitemap-page-444.xml",
+      "https://techcrunch.com/sitemap-page-828.xml",
+      "https://techcrunch.com/sitemap-page-991.xml",
+      "https://techcrunch.com/sitemap-page-1428.xml",
+      "https://techcrunch.com/sitemap-page-276.xml",
+      "https://techcrunch.com/sitemap-page-1204.xml",
+      "https://techcrunch.com/sitemap-page-1194.xml",
+      "https://techcrunch.com/sitemap-page-918.xml",
+      "https://techcrunch.com/sitemap-page-1377.xml",
+      "https://techcrunch.com/sitemap-page-768.xml",
+      "https://techcrunch.com/sitemap-page-1535.xml",
+      "https://techcrunch.com/sitemap-page-1058.xml",
+      "https://techcrunch.com/sitemap-page-1272.xml",
+      "https://techcrunch.com/sitemap-page-320.xml",
+      "https://techcrunch.com/sitemap-page-1281.xml",
+      "https://techcrunch.com/sitemap-page-763.xml",
+      "https://techcrunch.com/sitemap-page-607.xml",
+      "https://techcrunch.com/sitemap-page-1820.xml",
+      "https://techcrunch.com/sitemap-page-1212.xml",
+      "https://techcrunch.com/sitemap-page-1391.xml",
+      "https://techcrunch.com/sitemap-page-1540.xml",
+      "https://techcrunch.com/sitemap-page-1588.xml",
+      "https://techcrunch.com/sitemap-page-1205.xml",
+      "https://techcrunch.com/sitemap-page-298.xml",
+      "https://techcrunch.com/sitemap-page-86.xml",
+      "https://techcrunch.com/sitemap-page-1959.xml",
+      "https://techcrunch.com/sitemap-page-1065.xml",
+      "https://techcrunch.com/sitemap-page-564.xml",
+      "https://techcrunch.com/sitemap-page-490.xml",
+      "https://techcrunch.com/sitemap-page-135.xml",
+      "https://techcrunch.com/sitemap-page-454.xml",
+      "https://techcrunch.com/sitemap-page-1331.xml",
+      "https://techcrunch.com/sitemap-page-1207.xml",
+      "https://techcrunch.com/sitemap-page-1111.xml",
+      "https://techcrunch.com/sitemap-page-953.xml",
+      "https://techcrunch.com/sitemap-page-1366.xml",
+      "https://techcrunch.com/sitemap-page-1764.xml",
+      "https://techcrunch.com/sitemap-page-453.xml",
+      "https://techcrunch.com/sitemap-page-157.xml",
+      "https://techcrunch.com/sitemap-page-1353.xml",
+      "https://techcrunch.com/sitemap-page-664.xml",
+      "https://techcrunch.com/sitemap-page-267.xml",
+      "https://techcrunch.com/sitemap-page-429.xml",
+      "https://techcrunch.com/sitemap-page-1979.xml",
+      "https://techcrunch.com/sitemap-page-1506.xml",
+      "https://techcrunch.com/sitemap-page-628.xml",
+      "https://techcrunch.com/sitemap-page-890.xml",
+      "https://techcrunch.com/sitemap-page-1299.xml",
+      "https://techcrunch.com/sitemap-page-632.xml",
+      "https://techcrunch.com/sitemap-page-366.xml",
+      "https://techcrunch.com/sitemap-page-292.xml",
+      "https://techcrunch.com/sitemap-page-1488.xml",
+      "https://techcrunch.com/sitemap-page-821.xml",
+      "https://techcrunch.com/sitemap-page-147.xml",
+      "https://techcrunch.com/sitemap-page-427.xml",
+      "https://techcrunch.com/sitemap-page-1169.xml",
+      "https://techcrunch.com/sitemap-page-126.xml",
+      "https://techcrunch.com/sitemap-page-841.xml",
+      "https://techcrunch.com/sitemap-page-1303.xml",
+      "https://techcrunch.com/sitemap-page-348.xml",
+      "https://techcrunch.com/sitemap-page-1895.xml",
+      "https://techcrunch.com/sitemap-page-311.xml",
+      "https://techcrunch.com/sitemap-page-347.xml",
+      "https://techcrunch.com/sitemap-page-970.xml",
+      "https://techcrunch.com/sitemap-page-1146.xml",
+      "https://techcrunch.com/sitemap-page-1870.xml",
+      "https://techcrunch.com/sitemap-page-1263.xml",
+      "https://techcrunch.com/sitemap-page-885.xml",
+      "https://techcrunch.com/sitemap-page-1442.xml",
+      "https://techcrunch.com/sitemap-page-351.xml",
+      "https://techcrunch.com/sitemap-page-959.xml",
+      "https://techcrunch.com/sitemap-page-327.xml",
+      "https://techcrunch.com/sitemap-page-609.xml",
+      "https://techcrunch.com/sitemap-page-1703.xml",
+      "https://techcrunch.com/sitemap-page-791.xml",
+      "https://techcrunch.com/sitemap-page-374.xml",
+      "https://techcrunch.com/sitemap-page-1252.xml",
+      "https://techcrunch.com/sitemap-page-1437.xml",
+      "https://techcrunch.com/sitemap-page-652.xml",
+      "https://techcrunch.com/sitemap-page-35.xml",
+      "https://techcrunch.com/sitemap-page-1802.xml",
+      "https://techcrunch.com/sitemap-page-935.xml",
+      "https://techcrunch.com/sitemap-page-551.xml",
+      "https://techcrunch.com/sitemap-page-1915.xml",
+      "https://techcrunch.com/sitemap-page-1160.xml",
+      "https://techcrunch.com/sitemap-page-1503.xml",
+      "https://techcrunch.com/sitemap-page-1109.xml",
+      "https://techcrunch.com/sitemap-page-399.xml",
+      "https://techcrunch.com/sitemap-page-1165.xml",
+      "https://techcrunch.com/sitemap-page-1527.xml",
+      "https://techcrunch.com/sitemap-page-1673.xml",
+      "https://techcrunch.com/sitemap-page-322.xml",
+      "https://techcrunch.com/sitemap-page-600.xml",
+      "https://techcrunch.com/sitemap-page-1161.xml",
+      "https://techcrunch.com/sitemap-page-921.xml",
+      "https://techcrunch.com/sitemap-page-1101.xml",
+      "https://techcrunch.com/sitemap-page-1279.xml",
+      "https://techcrunch.com/sitemap-page-1935.xml",
+      "https://techcrunch.com/sitemap-page-1740.xml",
+      "https://techcrunch.com/sitemap-page-1284.xml",
+      "https://techcrunch.com/sitemap-page-1287.xml",
+      "https://techcrunch.com/sitemap-page-1559.xml",
+      "https://techcrunch.com/sitemap-page-746.xml",
+      "https://techcrunch.com/sitemap-page-994.xml",
+      "https://techcrunch.com/sitemap-page-1856.xml",
+      "https://techcrunch.com/sitemap-page-9.xml",
+      "https://techcrunch.com/sitemap-page-119.xml",
+      "https://techcrunch.com/sitemap-page-901.xml",
+      "https://techcrunch.com/sitemap-page-1157.xml",
+      "https://techcrunch.com/sitemap-page-1.xml",
+      "https://techcrunch.com/sitemap-page-680.xml",
+      "https://techcrunch.com/sitemap-page-961.xml",
+      "https://techcrunch.com/sitemap-page-1763.xml",
+      "https://techcrunch.com/sitemap-page-381.xml",
+      "https://techcrunch.com/sitemap-page-741.xml",
+      "https://techcrunch.com/sitemap-page-21.xml",
+      "https://techcrunch.com/sitemap-page-1206.xml",
+      "https://techcrunch.com/sitemap-page-1446.xml",
+      "https://techcrunch.com/sitemap-page-1457.xml",
+      "https://techcrunch.com/sitemap-page-445.xml",
+      "https://techcrunch.com/sitemap-page-1153.xml",
+      "https://techcrunch.com/sitemap-page-461.xml",
+      "https://techcrunch.com/sitemap-page-158.xml",
+      "https://techcrunch.com/sitemap-page-1747.xml",
+      "https://techcrunch.com/sitemap-page-717.xml",
+      "https://techcrunch.com/sitemap-page-739.xml",
+      "https://techcrunch.com/sitemap-page-1337.xml",
+      "https://techcrunch.com/sitemap-page-1354.xml",
+      "https://techcrunch.com/sitemap-page-1616.xml",
+      "https://techcrunch.com/sitemap-page-97.xml",
+      "https://techcrunch.com/sitemap-page-226.xml",
+      "https://techcrunch.com/sitemap-page-174.xml",
+      "https://techcrunch.com/sitemap-page-1348.xml",
+      "https://techcrunch.com/sitemap-page-730.xml",
+      "https://techcrunch.com/sitemap-page-1832.xml",
+      "https://techcrunch.com/sitemap-page-583.xml",
+      "https://techcrunch.com/sitemap-page-1539.xml",
+      "https://techcrunch.com/sitemap-page-677.xml",
+      "https://techcrunch.com/sitemap-page-1228.xml",
+      "https://techcrunch.com/sitemap-page-1662.xml",
+      "https://techcrunch.com/sitemap-page-40.xml",
+      "https://techcrunch.com/sitemap-page-274.xml",
+      "https://techcrunch.com/sitemap-page-1077.xml",
+      "https://techcrunch.com/sitemap-page-369.xml",
+      "https://techcrunch.com/sitemap-page-1655.xml",
+      "https://techcrunch.com/sitemap-page-1804.xml",
+      "https://techcrunch.com/sitemap-page-809.xml",
+      "https://techcrunch.com/sitemap-page-1386.xml",
+      "https://techcrunch.com/sitemap-page-418.xml",
+      "https://techcrunch.com/sitemap-page-1844.xml",
+      "https://techcrunch.com/sitemap-page-1468.xml",
+      "https://techcrunch.com/sitemap-page-51.xml",
+      "https://techcrunch.com/sitemap-page-1108.xml",
+      "https://techcrunch.com/sitemap-page-302.xml",
+      "https://techcrunch.com/sitemap-page-1594.xml",
+      "https://techcrunch.com/sitemap-page-1237.xml",
+      "https://techcrunch.com/sitemap-page-186.xml",
+      "https://techcrunch.com/sitemap-page-2015.xml",
+      "https://techcrunch.com/sitemap-page-372.xml",
+      "https://techcrunch.com/sitemap-page-1902.xml",
+      "https://techcrunch.com/sitemap-page-241.xml",
+      "https://techcrunch.com/sitemap-page-290.xml",
+      "https://techcrunch.com/sitemap-page-1188.xml",
+      "https://techcrunch.com/sitemap-page-1836.xml",
+      "https://techcrunch.com/sitemap-page-818.xml",
+      "https://techcrunch.com/sitemap-page-1059.xml",
+      "https://techcrunch.com/sitemap-page-1912.xml",
+      "https://techcrunch.com/sitemap-page-100.xml",
+      "https://techcrunch.com/sitemap-page-1278.xml",
+      "https://techcrunch.com/sitemap-page-136.xml",
+      "https://techcrunch.com/sitemap-page-212.xml",
+      "https://techcrunch.com/sitemap-page-1166.xml",
+      "https://techcrunch.com/sitemap-page-708.xml",
+      "https://techcrunch.com/sitemap-page-1512.xml",
+      "https://techcrunch.com/sitemap-page-1771.xml",
+      "https://techcrunch.com/sitemap-page-684.xml",
+      "https://techcrunch.com/sitemap-page-1013.xml",
+      "https://techcrunch.com/sitemap-page-776.xml",
+      "https://techcrunch.com/sitemap-page-1929.xml",
+      "https://techcrunch.com/sitemap-page-1090.xml",
+      "https://techcrunch.com/sitemap-page-1627.xml",
+      "https://techcrunch.com/sitemap-page-1471.xml",
+      "https://techcrunch.com/sitemap-page-324.xml",
+      "https://techcrunch.com/sitemap-page-932.xml",
+      "https://techcrunch.com/sitemap-page-506.xml",
+      "https://techcrunch.com/sitemap-page-392.xml",
+      "https://techcrunch.com/sitemap-page-410.xml",
+      "https://techcrunch.com/sitemap-page-237.xml",
+      "https://techcrunch.com/sitemap-page-1618.xml",
+      "https://techcrunch.com/sitemap-page-1062.xml",
+      "https://techcrunch.com/sitemap-page-45.xml",
+      "https://techcrunch.com/sitemap-page-1749.xml",
+      "https://techcrunch.com/sitemap-page-139.xml",
+      "https://techcrunch.com/sitemap-page-389.xml",
+      "https://techcrunch.com/sitemap-page-1717.xml",
+      "https://techcrunch.com/sitemap-page-194.xml",
+      "https://techcrunch.com/sitemap-page-1246.xml",
+      "https://techcrunch.com/sitemap-page-995.xml",
+      "https://techcrunch.com/sitemap-page-938.xml",
+      "https://techcrunch.com/sitemap-page-650.xml",
+      "https://techcrunch.com/sitemap-page-699.xml",
+      "https://techcrunch.com/sitemap-page-1914.xml",
+      "https://techcrunch.com/sitemap-page-1159.xml",
+      "https://techcrunch.com/sitemap-page-33.xml",
+      "https://techcrunch.com/sitemap-page-413.xml",
+      "https://techcrunch.com/sitemap-page-1103.xml",
+      "https://techcrunch.com/sitemap-page-1898.xml",
+      "https://techcrunch.com/sitemap-page-666.xml",
+      "https://techcrunch.com/sitemap-page-697.xml",
+      "https://techcrunch.com/sitemap-page-1399.xml",
+      "https://techcrunch.com/sitemap-page-1584.xml",
+      "https://techcrunch.com/sitemap-page-1255.xml",
+      "https://techcrunch.com/sitemap-page-167.xml",
+      "https://techcrunch.com/sitemap-page-406.xml",
+      "https://techcrunch.com/sitemap-page-1991.xml",
+      "https://techcrunch.com/sitemap-page-612.xml",
+      "https://techcrunch.com/sitemap-page-761.xml",
+      "https://techcrunch.com/sitemap-page-1258.xml",
+      "https://techcrunch.com/sitemap-page-1737.xml",
+      "https://techcrunch.com/sitemap-page-473.xml",
+      "https://techcrunch.com/sitemap-page-568.xml",
+      "https://techcrunch.com/sitemap-page-1404.xml",
+      "https://techcrunch.com/sitemap-page-775.xml",
+      "https://techcrunch.com/sitemap-page-907.xml",
+      "https://techcrunch.com/sitemap-page-305.xml",
+      "https://techcrunch.com/sitemap-page-181.xml",
+      "https://techcrunch.com/sitemap-page-1167.xml",
+      "https://techcrunch.com/sitemap-page-674.xml",
+      "https://techcrunch.com/sitemap-page-483.xml",
+      "https://techcrunch.com/sitemap-page-1024.xml",
+      "https://techcrunch.com/sitemap-page-238.xml",
+      "https://techcrunch.com/sitemap-page-49.xml",
+      "https://techcrunch.com/sitemap-page-1151.xml",
+      "https://techcrunch.com/sitemap-page-744.xml",
+      "https://techcrunch.com/sitemap-page-1892.xml",
+      "https://techcrunch.com/sitemap-page-1958.xml",
+      "https://techcrunch.com/sitemap-page-1557.xml",
+      "https://techcrunch.com/sitemap-page-753.xml",
+      "https://techcrunch.com/sitemap-page-220.xml",
+      "https://techcrunch.com/sitemap-page-1971.xml",
+      "https://techcrunch.com/sitemap-page-1256.xml",
+      "https://techcrunch.com/sitemap-page-63.xml",
+      "https://techcrunch.com/sitemap-page-1558.xml",
+      "https://techcrunch.com/sitemap-page-1411.xml",
+      "https://techcrunch.com/sitemap-page-729.xml",
+      "https://techcrunch.com/sitemap-page-1218.xml",
+      "https://techcrunch.com/sitemap-page-606.xml",
+      "https://techcrunch.com/sitemap-page-1389.xml",
+      "https://techcrunch.com/sitemap-page-528.xml",
+      "https://techcrunch.com/sitemap-page-131.xml",
+      "https://techcrunch.com/sitemap-page-233.xml",
+      "https://techcrunch.com/sitemap-page-663.xml",
+      "https://techcrunch.com/sitemap-page-1057.xml",
+      "https://techcrunch.com/sitemap-page-439.xml",
+      "https://techcrunch.com/sitemap-page-1501.xml",
+      "https://techcrunch.com/sitemap-page-1055.xml",
+      "https://techcrunch.com/sitemap-page-1496.xml",
+      "https://techcrunch.com/sitemap-page-396.xml",
+      "https://techcrunch.com/sitemap-page-331.xml",
+      "https://techcrunch.com/sitemap-page-669.xml",
+      "https://techcrunch.com/sitemap-page-1894.xml",
+      "https://techcrunch.com/sitemap-page-608.xml",
+      "https://techcrunch.com/sitemap-page-1480.xml",
+      "https://techcrunch.com/sitemap-page-962.xml",
+      "https://techcrunch.com/sitemap-page-79.xml",
+      "https://techcrunch.com/sitemap-page-1136.xml",
+      "https://techcrunch.com/sitemap-page-977.xml",
+      "https://techcrunch.com/sitemap-page-1052.xml",
+      "https://techcrunch.com/sitemap-page-1888.xml",
+      "https://techcrunch.com/sitemap-page-306.xml",
+      "https://techcrunch.com/sitemap-page-470.xml",
+      "https://techcrunch.com/sitemap-page-707.xml",
+      "https://techcrunch.com/sitemap-page-1785.xml",
+      "https://techcrunch.com/sitemap-page-1479.xml",
+      "https://techcrunch.com/sitemap-page-249.xml",
+      "https://techcrunch.com/sitemap-page-1831.xml",
+      "https://techcrunch.com/sitemap-page-817.xml",
+      "https://techcrunch.com/sitemap-page-1053.xml",
+      "https://techcrunch.com/sitemap-page-2016.xml",
+      "https://techcrunch.com/sitemap-page-1430.xml",
+      "https://techcrunch.com/sitemap-page-1418.xml",
+      "https://techcrunch.com/sitemap-page-395.xml",
+      "https://techcrunch.com/sitemap-page-1043.xml",
+      "https://techcrunch.com/sitemap-page-1329.xml",
+      "https://techcrunch.com/sitemap-page-1676.xml",
+      "https://techcrunch.com/sitemap-page-168.xml",
+      "https://techcrunch.com/sitemap-page-756.xml",
+      "https://techcrunch.com/sitemap-page-1238.xml",
+      "https://techcrunch.com/sitemap-page-518.xml",
+      "https://techcrunch.com/sitemap-page-1881.xml",
+      "https://techcrunch.com/sitemap-page-487.xml",
+      "https://techcrunch.com/sitemap-page-1517.xml",
+      "https://techcrunch.com/sitemap-page-1726.xml",
+      "https://techcrunch.com/sitemap-page-192.xml",
+      "https://techcrunch.com/sitemap-page-18.xml",
+      "https://techcrunch.com/sitemap-page-455.xml",
+      "https://techcrunch.com/sitemap-page-1380.xml",
+      "https://techcrunch.com/sitemap-page-94.xml",
+      "https://techcrunch.com/sitemap-page-432.xml",
+      "https://techcrunch.com/sitemap-page-590.xml",
+      "https://techcrunch.com/sitemap-page-42.xml",
+      "https://techcrunch.com/sitemap-page-1585.xml",
+      "https://techcrunch.com/sitemap-page-1268.xml",
+      "https://techcrunch.com/sitemap-page-262.xml",
+      "https://techcrunch.com/sitemap-page-1669.xml",
+      "https://techcrunch.com/sitemap-page-626.xml",
+      "https://techcrunch.com/sitemap-page-616.xml",
+      "https://techcrunch.com/sitemap-page-219.xml",
+      "https://techcrunch.com/sitemap-page-1690.xml",
+      "https://techcrunch.com/sitemap-page-1733.xml",
+      "https://techcrunch.com/sitemap-page-1190.xml",
+      "https://techcrunch.com/sitemap-page-303.xml",
+      "https://techcrunch.com/sitemap-page-823.xml",
+      "https://techcrunch.com/sitemap-page-862.xml",
+      "https://techcrunch.com/sitemap-page-1254.xml",
+      "https://techcrunch.com/sitemap-page-1253.xml",
+      "https://techcrunch.com/sitemap-page-2012.xml",
+      "https://techcrunch.com/sitemap-page-202.xml",
+      "https://techcrunch.com/sitemap-page-747.xml",
+      "https://techcrunch.com/sitemap-page-649.xml",
+      "https://techcrunch.com/sitemap-page-1330.xml",
+      "https://techcrunch.com/sitemap-page-591.xml",
+      "https://techcrunch.com/sitemap-page-1639.xml",
+      "https://techcrunch.com/sitemap-page-265.xml",
+      "https://techcrunch.com/sitemap-page-1338.xml",
+      "https://techcrunch.com/sitemap-page-611.xml",
+      "https://techcrunch.com/sitemap-page-1650.xml",
+      "https://techcrunch.com/sitemap-page-1803.xml",
+      "https://techcrunch.com/sitemap-page-1048.xml",
+      "https://techcrunch.com/sitemap-page-81.xml",
+      "https://techcrunch.com/sitemap-page-30.xml",
+      "https://techcrunch.com/sitemap-page-1001.xml",
+      "https://techcrunch.com/sitemap-page-1350.xml",
+      "https://techcrunch.com/sitemap-page-409.xml",
+      "https://techcrunch.com/sitemap-page-603.xml",
+      "https://techcrunch.com/sitemap-page-933.xml",
+      "https://techcrunch.com/sitemap-page-1952.xml",
+      "https://techcrunch.com/sitemap-page-1267.xml",
+      "https://techcrunch.com/sitemap-page-1542.xml",
+      "https://techcrunch.com/sitemap-page-1610.xml",
+      "https://techcrunch.com/sitemap-page-2001.xml",
+      "https://techcrunch.com/sitemap-page-1950.xml",
+      "https://techcrunch.com/sitemap-page-1928.xml",
+      "https://techcrunch.com/sitemap-page-1932.xml",
+      "https://techcrunch.com/sitemap-page-69.xml",
+      "https://techcrunch.com/sitemap-page-61.xml",
+      "https://techcrunch.com/sitemap-page-1372.xml",
+      "https://techcrunch.com/sitemap-page-155.xml",
+      "https://techcrunch.com/sitemap-page-472.xml",
+      "https://techcrunch.com/sitemap-page-1344.xml",
+      "https://techcrunch.com/sitemap-page-96.xml",
+      "https://techcrunch.com/sitemap-page-1396.xml",
+      "https://techcrunch.com/sitemap-page-1533.xml",
+      "https://techcrunch.com/sitemap-page-435.xml",
+      "https://techcrunch.com/sitemap-page-634.xml",
+      "https://techcrunch.com/sitemap-page-1874.xml",
+      "https://techcrunch.com/sitemap-page-1511.xml",
+      "https://techcrunch.com/sitemap.xml",
+      "https://techcrunch.com/sitemap-page-360.xml",
+      "https://techcrunch.com/sitemap-page-43.xml",
+      "https://techcrunch.com/sitemap-page-1887.xml",
+      "https://techcrunch.com/sitemap-page-1788.xml",
+      "https://techcrunch.com/sitemap-page-1691.xml",
+      "https://techcrunch.com/sitemap-page-1250.xml",
+      "https://techcrunch.com/sitemap-page-140.xml",
+      "https://techcrunch.com/sitemap-page-1560.xml",
+      "https://techcrunch.com/sitemap-page-575.xml",
+      "https://techcrunch.com/sitemap-page-288.xml",
+      "https://techcrunch.com/sitemap-page-661.xml",
+      "https://techcrunch.com/sitemap-page-1321.xml",
+      "https://techcrunch.com/sitemap-page-1837.xml",
+      "https://techcrunch.com/sitemap-page-964.xml",
+      "https://techcrunch.com/sitemap-page-1280.xml",
+      "https://techcrunch.com/sitemap-page-1361.xml",
+      "https://techcrunch.com/sitemap-page-1030.xml",
+      "https://techcrunch.com/sitemap-page-1259.xml",
+      "https://techcrunch.com/sitemap-page-724.xml",
+      "https://techcrunch.com/sitemap-page-943.xml",
+      "https://techcrunch.com/sitemap-page-863.xml",
+      "https://techcrunch.com/sitemap-page-1724.xml",
+      "https://techcrunch.com/sitemap-page-886.xml",
+      "https://techcrunch.com/sitemap-page-1037.xml",
+      "https://techcrunch.com/sitemap-page-1628.xml",
+      "https://techcrunch.com/sitemap-page-1233.xml",
+      "https://techcrunch.com/sitemap-page-1484.xml",
+      "https://techcrunch.com/sitemap-page-1114.xml",
+      "https://techcrunch.com/sitemap-page-337.xml",
+      "https://techcrunch.com/sitemap-page-659.xml",
+      "https://techcrunch.com/sitemap-page-874.xml",
+      "https://techcrunch.com/sitemap-page-1931.xml",
+      "https://techcrunch.com/sitemap-page-1707.xml",
+      "https://techcrunch.com/sitemap-page-847.xml",
+      "https://techcrunch.com/sitemap-page-1819.xml",
+      "https://techcrunch.com/sitemap-page-466.xml",
+      "https://techcrunch.com/sitemap-page-1918.xml",
+      "https://techcrunch.com/sitemap-page-1568.xml",
+      "https://techcrunch.com/sitemap-page-905.xml",
+      "https://techcrunch.com/sitemap-page-1014.xml",
+      "https://techcrunch.com/sitemap-page-1326.xml",
+      "https://techcrunch.com/sitemap-page-851.xml",
+      "https://techcrunch.com/sitemap-page-1838.xml",
+      "https://techcrunch.com/sitemap-page-1465.xml",
+      "https://techcrunch.com/sitemap-page-1593.xml",
+      "https://techcrunch.com/sitemap-page-122.xml",
+      "https://techcrunch.com/sitemap-page-1498.xml",
+      "https://techcrunch.com/sitemap-page-1456.xml",
+      "https://techcrunch.com/sitemap-page-1957.xml",
+      "https://techcrunch.com/sitemap-page-803.xml",
+      "https://techcrunch.com/sitemap-page-1120.xml",
+      "https://techcrunch.com/sitemap-page-1401.xml",
+      "https://techcrunch.com/sitemap-page-829.xml",
+      "https://techcrunch.com/sitemap-page-1327.xml",
+      "https://techcrunch.com/sitemap-page-1996.xml",
+      "https://techcrunch.com/sitemap-page-1474.xml",
+      "https://techcrunch.com/sitemap-page-301.xml",
+      "https://techcrunch.com/sitemap-page-1102.xml",
+      "https://techcrunch.com/sitemap-page-693.xml",
+      "https://techcrunch.com/sitemap-page-849.xml",
+      "https://techcrunch.com/sitemap-page-1852.xml",
+      "https://techcrunch.com/sitemap-page-75.xml",
+      "https://techcrunch.com/sitemap-page-974.xml",
+      "https://techcrunch.com/sitemap-page-1061.xml",
+      "https://techcrunch.com/sitemap-page-1911.xml",
+      "https://techcrunch.com/sitemap-page-527.xml",
+      "https://techcrunch.com/sitemap-page-1262.xml",
+      "https://techcrunch.com/sitemap-page-1941.xml",
+      "https://techcrunch.com/sitemap-page-519.xml",
+      "https://techcrunch.com/sitemap-page-633.xml",
+      "https://techcrunch.com/sitemap-page-792.xml",
+      "https://techcrunch.com/sitemap-page-270.xml",
+      "https://techcrunch.com/sitemap-page-1227.xml",
+      "https://techcrunch.com/sitemap-page-1384.xml",
+      "https://techcrunch.com/sitemap-page-738.xml",
+      "https://techcrunch.com/sitemap-page-1520.xml",
+      "https://techcrunch.com/sitemap-page-1174.xml",
+      "https://techcrunch.com/sitemap-page-1569.xml",
+      "https://techcrunch.com/sitemap-page-93.xml",
+      "https://techcrunch.com/sitemap-page-1766.xml",
+      "https://techcrunch.com/sitemap-page-700.xml",
+      "https://techcrunch.com/sitemap-page-686.xml",
+      "https://techcrunch.com/sitemap-page-1398.xml",
+      "https://techcrunch.com/sitemap-page-1721.xml",
+      "https://techcrunch.com/sitemap-page-1098.xml",
+      "https://techcrunch.com/sitemap-page-245.xml",
+      "https://techcrunch.com/sitemap-page-1424.xml",
+      "https://techcrunch.com/sitemap-page-1031.xml",
+      "https://techcrunch.com/sitemap-page-1149.xml",
+      "https://techcrunch.com/sitemap-page-1937.xml",
+      "https://techcrunch.com/sitemap-page-878.xml",
+      "https://techcrunch.com/sitemap-page-114.xml",
+      "https://techcrunch.com/sitemap-page-1980.xml",
+      "https://techcrunch.com/sitemap-page-913.xml",
+      "https://techcrunch.com/sitemap-page-385.xml",
+      "https://techcrunch.com/sitemap-page-819.xml",
+      "https://techcrunch.com/sitemap-page-975.xml",
+      "https://techcrunch.com/sitemap-page-190.xml",
+      "https://techcrunch.com/sitemap-page-1040.xml",
+      "https://techcrunch.com/sitemap-page-1841.xml",
+      "https://techcrunch.com/sitemap-page-755.xml",
+      "https://techcrunch.com/sitemap-page-514.xml",
+      "https://techcrunch.com/sitemap-page-231.xml",
+      "https://techcrunch.com/sitemap-page-1792.xml",
+      "https://techcrunch.com/sitemap-page-1944.xml",
+      "https://techcrunch.com/sitemap-page-1008.xml",
+      "https://techcrunch.com/sitemap-page-1776.xml",
+      "https://techcrunch.com/sitemap-page-1183.xml",
+      "https://techcrunch.com/sitemap-page-1960.xml",
+      "https://techcrunch.com/sitemap-page-1433.xml",
+      "https://techcrunch.com/sitemap-page-1806.xml",
+      "https://techcrunch.com/sitemap-page-1071.xml",
+      "https://techcrunch.com/sitemap-page-800.xml",
+      "https://techcrunch.com/sitemap-page-1288.xml",
+      "https://techcrunch.com/sitemap-page-1450.xml",
+      "https://techcrunch.com/sitemap-page-471.xml",
+      "https://techcrunch.com/sitemap-page-1038.xml",
+      "https://techcrunch.com/sitemap-page-1099.xml",
+      "https://techcrunch.com/sitemap-page-285.xml",
+      "https://techcrunch.com/sitemap-page-175.xml",
+      "https://techcrunch.com/sitemap-page-1619.xml",
+      "https://techcrunch.com/sitemap-page-950.xml",
+      "https://techcrunch.com/sitemap-page-888.xml",
+      "https://techcrunch.com/sitemap-page-638.xml",
+      "https://techcrunch.com/sitemap-page-1163.xml",
+      "https://techcrunch.com/sitemap-page-1070.xml",
+      "https://techcrunch.com/sitemap-page-1275.xml",
+      "https://techcrunch.com/sitemap-page-954.xml",
+      "https://techcrunch.com/sitemap-page-398.xml",
+      "https://techcrunch.com/sitemap-page-1672.xml",
+      "https://techcrunch.com/sitemap-page-103.xml",
+      "https://techcrunch.com/sitemap-page-1699.xml",
+      "https://techcrunch.com/sitemap-page-1085.xml",
+      "https://techcrunch.com/sitemap-page-892.xml",
+      "https://techcrunch.com/sitemap-page-864.xml",
+      "https://techcrunch.com/sitemap-page-1711.xml",
+      "https://techcrunch.com/sitemap-page-692.xml",
+      "https://techcrunch.com/sitemap-page-924.xml",
+      "https://techcrunch.com/sitemap-page-1716.xml",
+      "https://techcrunch.com/sitemap-page-812.xml",
+      "https://techcrunch.com/sitemap-page-748.xml",
+      "https://techcrunch.com/sitemap-page-1203.xml",
+      "https://techcrunch.com/sitemap-page-1913.xml",
+      "https://techcrunch.com/sitemap-page-1970.xml",
+      "https://techcrunch.com/sitemap-page-770.xml",
+      "https://techcrunch.com/sitemap-page-706.xml",
+      "https://techcrunch.com/sitemap-page-441.xml",
+      "https://techcrunch.com/sitemap-page-1904.xml",
+      "https://techcrunch.com/sitemap-page-1084.xml",
+      "https://techcrunch.com/sitemap-page-696.xml",
+      "https://techcrunch.com/sitemap-page-153.xml",
+      "https://techcrunch.com/sitemap-page-343.xml",
+      "https://techcrunch.com/sitemap-page-1475.xml",
+      "https://techcrunch.com/sitemap-page-1909.xml",
+      "https://techcrunch.com/sitemap-page-1118.xml",
+      "https://techcrunch.com/sitemap-page-966.xml",
+      "https://techcrunch.com/sitemap-page-1674.xml",
+      "https://techcrunch.com/sitemap-page-420.xml",
+      "https://techcrunch.com/sitemap-page-968.xml",
+      "https://techcrunch.com/sitemap-page-1551.xml",
+      "https://techcrunch.com/sitemap-page-1525.xml",
+      "https://techcrunch.com/sitemap-page-1410.xml",
+      "https://techcrunch.com/sitemap-page-1459.xml",
+      "https://techcrunch.com/sitemap-page-145.xml",
+      "https://techcrunch.com/sitemap-page-1603.xml",
+      "https://techcrunch.com/sitemap-page-280.xml",
+      "https://techcrunch.com/sitemap-page-631.xml",
+      "https://techcrunch.com/sitemap-page-1607.xml",
+      "https://techcrunch.com/sitemap-page-1241.xml",
+      "https://techcrunch.com/sitemap-page-1439.xml",
+      "https://techcrunch.com/sitemap-page-1745.xml",
+      "https://techcrunch.com/sitemap-page-1158.xml",
+      "https://techcrunch.com/sitemap-page-548.xml",
+      "https://techcrunch.com/sitemap-page-107.xml",
+      "https://techcrunch.com/sitemap-page-1113.xml",
+      "https://techcrunch.com/sitemap-page-1083.xml",
+      "https://techcrunch.com/sitemap-page-1945.xml",
+      "https://techcrunch.com/sitemap-page-1060.xml",
+      "https://techcrunch.com/sitemap-page-604.xml",
+      "https://techcrunch.com/sitemap-page-1239.xml",
+      "https://techcrunch.com/sitemap-page-596.xml",
+      "https://techcrunch.com/sitemap-page-8.xml",
+      "https://techcrunch.com/sitemap-page-1050.xml",
+      "https://techcrunch.com/sitemap-page-1773.xml",
+      "https://techcrunch.com/sitemap-page-291.xml",
+      "https://techcrunch.com/sitemap-page-1034.xml",
+      "https://techcrunch.com/sitemap-page-438.xml",
+      "https://techcrunch.com/sitemap-page-1356.xml",
+      "https://techcrunch.com/sitemap-page-1623.xml",
+      "https://techcrunch.com/sitemap-page-353.xml",
+      "https://techcrunch.com/sitemap-page-1890.xml",
+      "https://techcrunch.com/sitemap-page-992.xml",
+      "https://techcrunch.com/sitemap-page-1528.xml",
+      "https://techcrunch.com/sitemap-page-1490.xml",
+      "https://techcrunch.com/sitemap-page-1257.xml",
+      "https://techcrunch.com/sitemap-page-592.xml",
+      "https://techcrunch.com/sitemap-page-662.xml",
+      "https://techcrunch.com/sitemap-page-1289.xml",
+      "https://techcrunch.com/sitemap-page-1342.xml",
+      "https://techcrunch.com/sitemap-page-726.xml",
+      "https://techcrunch.com/sitemap-page-363.xml",
+      "https://techcrunch.com/sitemap-page-1985.xml",
+      "https://techcrunch.com/sitemap-page-430.xml",
+      "https://techcrunch.com/sitemap-page-557.xml",
+      "https://techcrunch.com/sitemap-page-433.xml",
+      "https://techcrunch.com/sitemap-page-1908.xml",
+      "https://techcrunch.com/sitemap-page-1131.xml",
+      "https://techcrunch.com/sitemap-page-1320.xml",
+      "https://techcrunch.com/sitemap-page-1734.xml",
+      "https://techcrunch.com/sitemap-page-714.xml",
+      "https://techcrunch.com/sitemap-page-447.xml",
+      "https://techcrunch.com/sitemap-page-665.xml",
+      "https://techcrunch.com/sitemap-page-976.xml",
+      "https://techcrunch.com/sitemap-page-1009.xml",
+      "https://techcrunch.com/sitemap-page-536.xml",
+      "https://techcrunch.com/sitemap-page-1993.xml",
+      "https://techcrunch.com/sitemap-page-549.xml",
+      "https://techcrunch.com/sitemap-page-408.xml",
+      "https://techcrunch.com/sitemap-page-956.xml",
+      "https://techcrunch.com/sitemap-page-1448.xml",
+      "https://techcrunch.com/sitemap-page-246.xml",
+      "https://techcrunch.com/sitemap-page-500.xml",
+      "https://techcrunch.com/sitemap-page-1968.xml",
+      "https://techcrunch.com/sitemap-page-1044.xml",
+      "https://techcrunch.com/sitemap-page-1805.xml",
+      "https://techcrunch.com/sitemap-page-243.xml",
+      "https://techcrunch.com/sitemap-page-861.xml",
+      "https://techcrunch.com/sitemap-page-152.xml",
+      "https://techcrunch.com/sitemap-page-1871.xml",
+      "https://techcrunch.com/sitemap-page-1429.xml",
+      "https://techcrunch.com/sitemap-page-1195.xml",
+      "https://techcrunch.com/sitemap-page-1875.xml",
+      "https://techcrunch.com/sitemap-page-451.xml",
+      "https://techcrunch.com/sitemap-page-1847.xml",
+      "https://techcrunch.com/sitemap-page-973.xml",
+      "https://techcrunch.com/sitemap-page-1770.xml",
+      "https://techcrunch.com/sitemap-page-1798.xml",
+      "https://techcrunch.com/sitemap-page-467.xml",
+      "https://techcrunch.com/sitemap-page-24.xml",
+      "https://techcrunch.com/sitemap-page-46.xml",
+      "https://techcrunch.com/sitemap-page-643.xml",
+      "https://techcrunch.com/sitemap-page-1162.xml",
+      "https://techcrunch.com/sitemap-page-709.xml",
+      "https://techcrunch.com/sitemap-page-1137.xml",
+      "https://techcrunch.com/sitemap-page-326.xml",
+      "https://techcrunch.com/sitemap-page-83.xml",
+      "https://techcrunch.com/sitemap-page-1426.xml",
+      "https://techcrunch.com/sitemap-page-601.xml",
+      "https://techcrunch.com/sitemap-page-1189.xml",
+      "https://techcrunch.com/sitemap-page-1443.xml",
+      "https://techcrunch.com/sitemap-page-1276.xml",
+      "https://techcrunch.com/sitemap-page-778.xml",
+      "https://techcrunch.com/sitemap-page-1392.xml",
+      "https://techcrunch.com/sitemap-page-383.xml",
+      "https://techcrunch.com/sitemap-page-115.xml",
+      "https://techcrunch.com/sitemap-page-897.xml",
+      "https://techcrunch.com/sitemap-page-593.xml",
+      "https://techcrunch.com/sitemap-page-1688.xml",
+      "https://techcrunch.com/sitemap-page-560.xml",
+      "https://techcrunch.com/sitemap-page-1046.xml",
+      "https://techcrunch.com/sitemap-page-1269.xml",
+      "https://techcrunch.com/sitemap-page-102.xml",
+      "https://techcrunch.com/sitemap-page-1916.xml",
+      "https://techcrunch.com/sitemap-page-906.xml",
+      "https://techcrunch.com/sitemap-page-198.xml",
+      "https://techcrunch.com/sitemap-page-1839.xml",
+      "https://techcrunch.com/sitemap-page-1563.xml",
+      "https://techcrunch.com/sitemap-page-1491.xml",
+      "https://techcrunch.com/sitemap-page-146.xml",
+      "https://techcrunch.com/sitemap-page-1089.xml",
+      "https://techcrunch.com/sitemap-page-229.xml",
+      "https://techcrunch.com/sitemap-page-840.xml",
+      "https://techcrunch.com/sitemap-page-428.xml",
+      "https://techcrunch.com/sitemap-page-1093.xml",
+      "https://techcrunch.com/sitemap-page-307.xml",
+      "https://techcrunch.com/sitemap-page-1403.xml",
+      "https://techcrunch.com/sitemap-page-1677.xml",
+      "https://techcrunch.com/sitemap-page-297.xml",
+      "https://techcrunch.com/sitemap-page-1363.xml",
+      "https://techcrunch.com/sitemap-page-401.xml",
+      "https://techcrunch.com/sitemap-page-110.xml",
+      "https://techcrunch.com/sitemap-page-1629.xml",
+      "https://techcrunch.com/sitemap-page-900.xml",
+      "https://techcrunch.com/sitemap-page-71.xml",
+      "https://techcrunch.com/sitemap-page-988.xml",
+      "https://techcrunch.com/sitemap-page-1524.xml",
+      "https://techcrunch.com/sitemap-page-382.xml",
+      "https://techcrunch.com/sitemap-page-856.xml",
+      "https://techcrunch.com/sitemap-page-636.xml",
+      "https://techcrunch.com/sitemap-page-1243.xml",
+      "https://techcrunch.com/sitemap-page-937.xml",
+      "https://techcrunch.com/sitemap-page-989.xml",
+      "https://techcrunch.com/sitemap-page-860.xml",
+      "https://techcrunch.com/sitemap-page-350.xml",
+      "https://techcrunch.com/sitemap-page-1822.xml",
+      "https://techcrunch.com/sitemap-page-1132.xml",
+      "https://techcrunch.com/sitemap-page-1613.xml",
+      "https://techcrunch.com/sitemap-page-559.xml",
+      "https://techcrunch.com/sitemap-page-1532.xml",
+      "https://techcrunch.com/sitemap-page-505.xml",
+      "https://techcrunch.com/sitemap-page-1347.xml",
+      "https://techcrunch.com/sitemap-page-284.xml",
+      "https://techcrunch.com/sitemap-page-1502.xml",
+      "https://techcrunch.com/sitemap-page-678.xml",
+      "https://techcrunch.com/sitemap-page-1842.xml",
+      "https://techcrunch.com/sitemap-page-484.xml",
+      "https://techcrunch.com/sitemap-page-1271.xml",
+      "https://techcrunch.com/sitemap-page-1334.xml",
+      "https://techcrunch.com/sitemap-page-916.xml",
+      "https://techcrunch.com/sitemap-page-965.xml",
+      "https://techcrunch.com/sitemap-page-923.xml",
+      "https://techcrunch.com/sitemap-page-1900.xml",
+      "https://techcrunch.com/sitemap-page-1744.xml",
+      "https://techcrunch.com/sitemap-page-774.xml",
+      "https://techcrunch.com/sitemap-page-143.xml",
+      "https://techcrunch.com/sitemap-page-948.xml",
+      "https://techcrunch.com/sitemap-page-411.xml",
+      "https://techcrunch.com/sitemap-page-1969.xml",
+      "https://techcrunch.com/sitemap-page-919.xml",
+      "https://techcrunch.com/sitemap-page-1140.xml",
+      "https://techcrunch.com/sitemap-page-1529.xml",
+      "https://techcrunch.com/sitemap-page-1883.xml",
+      "https://techcrunch.com/sitemap-page-1656.xml",
+      "https://techcrunch.com/sitemap-page-1462.xml",
+      "https://techcrunch.com/sitemap-page-1470.xml",
+      "https://techcrunch.com/sitemap-page-1731.xml",
+      "https://techcrunch.com/sitemap-page-340.xml",
+      "https://techcrunch.com/sitemap-page-1414.xml",
+      "https://techcrunch.com/sitemap-page-1906.xml",
+      "https://techcrunch.com/sitemap-page-1573.xml",
+      "https://techcrunch.com/sitemap-page-572.xml",
+      "https://techcrunch.com/sitemap-page-1148.xml",
+      "https://techcrunch.com/sitemap-page-681.xml",
+      "https://techcrunch.com/sitemap-page-477.xml",
+      "https://techcrunch.com/sitemap-page-1946.xml",
+      "https://techcrunch.com/sitemap-page-1919.xml",
+      "https://techcrunch.com/sitemap-page-807.xml",
+      "https://techcrunch.com/sitemap-page-1815.xml",
+      "https://techcrunch.com/sitemap-page-1706.xml",
+      "https://techcrunch.com/sitemap-page-1516.xml",
+      "https://techcrunch.com/sitemap-page-1997.xml",
+      "https://techcrunch.com/sitemap-page-248.xml",
+      "https://techcrunch.com/sitemap-page-1357.xml",
+      "https://techcrunch.com/sitemap-page-1413.xml",
+      "https://techcrunch.com/sitemap-page-1609.xml",
+      "https://techcrunch.com/sitemap-page-1821.xml",
+      "https://techcrunch.com/sitemap-page-240.xml",
+      "https://techcrunch.com/sitemap-page-1311.xml",
+      "https://techcrunch.com/sitemap-page-1368.xml",
+      "https://techcrunch.com/sitemap-page-39.xml",
+      "https://techcrunch.com/sitemap-page-225.xml",
+      "https://techcrunch.com/sitemap-page-405.xml",
+      "https://techcrunch.com/sitemap-page-195.xml",
+      "https://techcrunch.com/sitemap-page-508.xml",
+      "https://techcrunch.com/sitemap-page-1202.xml",
+      "https://techcrunch.com/sitemap-page-1440.xml",
+      "https://techcrunch.com/sitemap-page-1608.xml",
+      "https://techcrunch.com/sitemap-page-446.xml",
+      "https://techcrunch.com/sitemap-page-452.xml",
+      "https://techcrunch.com/sitemap-page-287.xml",
+      "https://techcrunch.com/sitemap-page-1722.xml",
+      "https://techcrunch.com/sitemap-page-339.xml",
+      "https://techcrunch.com/sitemap-page-997.xml",
+      "https://techcrunch.com/sitemap-page-1317.xml",
+      "https://techcrunch.com/sitemap-page-565.xml",
+      "https://techcrunch.com/sitemap-page-1135.xml",
+      "https://techcrunch.com/sitemap-page-1590.xml",
+      "https://techcrunch.com/sitemap-page-68.xml",
+      "https://techcrunch.com/sitemap-page-941.xml",
+      "https://techcrunch.com/sitemap-page-1208.xml",
+      "https://techcrunch.com/sitemap-page-683.xml",
+      "https://techcrunch.com/sitemap-page-835.xml",
+      "https://techcrunch.com/sitemap-page-54.xml",
+      "https://techcrunch.com/sitemap-page-282.xml",
+      "https://techcrunch.com/sitemap-page-1376.xml",
+      "https://techcrunch.com/sitemap-page-1738.xml",
+      "https://techcrunch.com/sitemap-page-1277.xml",
+      "https://techcrunch.com/sitemap-page-1599.xml",
+      "https://techcrunch.com/sitemap-page-1141.xml",
+      "https://techcrunch.com/sitemap-page-2010.xml",
+      "https://techcrunch.com/sitemap-page-2002.xml",
+      "https://techcrunch.com/sitemap-page-128.xml",
+      "https://techcrunch.com/sitemap-page-1998.xml",
+      "https://techcrunch.com/sitemap-page-1035.xml",
+      "https://techcrunch.com/sitemap-page-191.xml",
+      "https://techcrunch.com/sitemap-page-1882.xml",
+      "https://techcrunch.com/sitemap-page-740.xml",
+      "https://techcrunch.com/sitemap-page-1322.xml",
+      "https://techcrunch.com/sitemap-page-1567.xml",
+      "https://techcrunch.com/sitemap-page-1561.xml",
+      "https://techcrunch.com/sitemap-page-373.xml",
+      "https://techcrunch.com/sitemap-page-1292.xml",
+      "https://techcrunch.com/sitemap-page-880.xml",
+      "https://techcrunch.com/sitemap-page-1379.xml",
+      "https://techcrunch.com/sitemap-page-927.xml",
+      "https://techcrunch.com/sitemap-page-1537.xml",
+      "https://techcrunch.com/sitemap-page-530.xml",
+      "https://techcrunch.com/sitemap-page-1930.xml",
+      "https://techcrunch.com/sitemap-page-1112.xml",
+      "https://techcrunch.com/sitemap-page-651.xml",
+      "https://techcrunch.com/sitemap-page-1947.xml",
+      "https://techcrunch.com/sitemap-page-1686.xml",
+      "https://techcrunch.com/sitemap-page-1394.xml",
+      "https://techcrunch.com/sitemap-page-6.xml",
+      "https://techcrunch.com/sitemap-page-359.xml",
+      "https://techcrunch.com/sitemap-page-1854.xml",
+      "https://techcrunch.com/sitemap-page-1274.xml",
+      "https://techcrunch.com/sitemap-page-1125.xml",
+      "https://techcrunch.com/sitemap-page-1581.xml",
+      "https://techcrunch.com/sitemap-page-1653.xml",
+      "https://techcrunch.com/sitemap-page-705.xml",
+      "https://techcrunch.com/sitemap-page-482.xml",
+      "https://techcrunch.com/sitemap-page-1725.xml",
+      "https://techcrunch.com/sitemap-page-1922.xml",
+      "https://techcrunch.com/sitemap-page-799.xml",
+      "https://techcrunch.com/sitemap-page-1872.xml",
+      "https://techcrunch.com/sitemap-page-1645.xml",
+      "https://techcrunch.com/sitemap-page-1066.xml",
+      "https://techcrunch.com/sitemap-page-95.xml",
+      "https://techcrunch.com/sitemap-page-1234.xml",
+      "https://techcrunch.com/sitemap-page-437.xml",
+      "https://techcrunch.com/sitemap-page-952.xml",
+      "https://techcrunch.com/sitemap-page-203.xml",
+      "https://techcrunch.com/sitemap-page-1122.xml",
+      "https://techcrunch.com/sitemap-page-121.xml",
+      "https://techcrunch.com/sitemap-page-1449.xml",
+      "https://techcrunch.com/sitemap-page-1545.xml",
+      "https://techcrunch.com/sitemap-page-824.xml",
+      "https://techcrunch.com/sitemap-page-205.xml",
+      "https://techcrunch.com/sitemap-page-1214.xml",
+      "https://techcrunch.com/sitemap-page-1420.xml",
+      "https://techcrunch.com/sitemap-page-1951.xml",
+      "https://techcrunch.com/sitemap-page-958.xml",
+      "https://techcrunch.com/sitemap-page-805.xml",
+      "https://techcrunch.com/sitemap-page-77.xml",
+      "https://techcrunch.com/sitemap-page-1362.xml",
+      "https://techcrunch.com/sitemap-page-597.xml",
+      "https://techcrunch.com/sitemap-page-780.xml",
+      "https://techcrunch.com/sitemap-page-947.xml",
+      "https://techcrunch.com/sitemap-page-1666.xml",
+      "https://techcrunch.com/sitemap-page-1746.xml",
+      "https://techcrunch.com/sitemap-page-294.xml",
+      "https://techcrunch.com/sitemap-page-1291.xml",
+      "https://techcrunch.com/sitemap-page-149.xml",
+      "https://techcrunch.com/sitemap-page-531.xml",
+      "https://techcrunch.com/sitemap-page-1940.xml",
+      "https://techcrunch.com/sitemap-page-141.xml",
+      "https://techcrunch.com/sitemap-page-581.xml",
+      "https://techcrunch.com/sitemap-page-1736.xml",
+      "https://techcrunch.com/sitemap-page-204.xml",
+      "https://techcrunch.com/sitemap-page-1541.xml",
+      "https://techcrunch.com/sitemap-page-218.xml",
+      "https://techcrunch.com/sitemap-page-786.xml",
+      "https://techcrunch.com/sitemap-page-1995.xml",
+      "https://techcrunch.com/sitemap-page-1816.xml",
+      "https://techcrunch.com/sitemap-page-22.xml",
+      "https://techcrunch.com/sitemap-page-1687.xml",
+      "https://techcrunch.com/sitemap-page-617.xml",
+      "https://techcrunch.com/sitemap-page-196.xml",
+      "https://techcrunch.com/sitemap-page-1381.xml",
+      "https://techcrunch.com/sitemap-page-357.xml",
+      "https://techcrunch.com/sitemap-page-257.xml",
+      "https://techcrunch.com/sitemap-page-150.xml",
+      "https://techcrunch.com/sitemap-page-1181.xml",
+      "https://techcrunch.com/sitemap-page-117.xml",
+      "https://techcrunch.com/sitemap-page-209.xml",
+      "https://techcrunch.com/sitemap-page-132.xml",
+      "https://techcrunch.com/sitemap-page-1814.xml",
+      "https://techcrunch.com/sitemap-page-296.xml",
+      "https://techcrunch.com/sitemap-page-993.xml",
+      "https://techcrunch.com/sitemap-page-1388.xml",
+      "https://techcrunch.com/sitemap-page-28.xml",
+      "https://techcrunch.com/sitemap-page-349.xml",
+      "https://techcrunch.com/sitemap-page-1369.xml",
+      "https://techcrunch.com/sitemap-page-1544.xml",
+      "https://techcrunch.com/sitemap-page-1694.xml",
+      "https://techcrunch.com/sitemap-page-1249.xml",
+      "https://techcrunch.com/sitemap-page-644.xml",
+      "https://techcrunch.com/sitemap-page-391.xml",
+      "https://techcrunch.com/sitemap-page-323.xml",
+      "https://techcrunch.com/sitemap-page-1466.xml",
+      "https://techcrunch.com/sitemap-page-271.xml",
+      "https://techcrunch.com/sitemap-page-903.xml",
+      "https://techcrunch.com/sitemap-page-459.xml",
+      "https://techcrunch.com/sitemap-page-354.xml",
+      "https://techcrunch.com/sitemap-page-1444.xml",
+      "https://techcrunch.com/sitemap-page-1341.xml",
+      "https://techcrunch.com/sitemap-page-210.xml",
+      "https://techcrunch.com/sitemap-page-957.xml",
+      "https://techcrunch.com/sitemap-page-1518.xml",
+      "https://techcrunch.com/sitemap-page-493.xml",
+      "https://techcrunch.com/sitemap-page-1801.xml",
+      "https://techcrunch.com/sitemap-page-1754.xml",
+      "https://techcrunch.com/sitemap-page-1217.xml",
+      "https://techcrunch.com/sitemap-page-881.xml",
+      "https://techcrunch.com/sitemap-page-1294.xml",
+      "https://techcrunch.com/sitemap-page-1876.xml",
+      "https://techcrunch.com/sitemap-page-1290.xml",
+      "https://techcrunch.com/sitemap-page-1977.xml",
+      "https://techcrunch.com/post-sitemap.xml",
+      "https://techcrunch.com/sitemap-page-1531.xml",
+      "https://techcrunch.com/sitemap-page-1981.xml",
+      "https://techcrunch.com/sitemap-page-1244.xml",
+      "https://techcrunch.com/sitemap-page-1117.xml",
+      "https://techcrunch.com/sitemap-page-920.xml",
+      "https://techcrunch.com/sitemap-page-701.xml",
+      "https://techcrunch.com/sitemap-page-1173.xml",
+      "https://techcrunch.com/sitemap-page-371.xml",
+      "https://techcrunch.com/sitemap-page-544.xml",
+      "https://techcrunch.com/sitemap-page-967.xml",
+      "https://techcrunch.com/sitemap-page-1360.xml",
+      "https://techcrunch.com/sitemap-page-169.xml",
+      "https://techcrunch.com/sitemap-page-116.xml",
+      "https://techcrunch.com/sitemap-page-1236.xml",
+      "https://techcrunch.com/sitemap-page-610.xml",
+      "https://techcrunch.com/sitemap-page-72.xml",
+      "https://techcrunch.com/sitemap-page-765.xml",
+      "https://techcrunch.com/sitemap-page-1478.xml",
+      "https://techcrunch.com/sitemap-page-985.xml",
+      "https://techcrunch.com/sitemap-page-1210.xml",
+      "https://techcrunch.com/sitemap-page-1983.xml",
+      "https://techcrunch.com/sitemap-page-247.xml",
+      "https://techcrunch.com/sitemap-page-911.xml",
+      "https://techcrunch.com/sitemap-page-3.xml",
+      "https://techcrunch.com/sitemap-page-1235.xml",
+      "https://techcrunch.com/sitemap-page-502.xml",
+      "https://techcrunch.com/sitemap-page-90.xml",
+      "https://techcrunch.com/sitemap-page-1743.xml",
+      "https://techcrunch.com/sitemap-page-725.xml",
+      "https://techcrunch.com/sitemap-page-1579.xml",
+      "https://techcrunch.com/sitemap-page-769.xml",
+      "https://techcrunch.com/sitemap-page-790.xml",
+      "https://techcrunch.com/sitemap-page-588.xml",
+      "https://techcrunch.com/sitemap-page-934.xml",
+      "https://techcrunch.com/sitemap-page-1885.xml",
+      "https://techcrunch.com/sitemap-page-691.xml",
+      "https://techcrunch.com/sitemap-page-1293.xml",
+      "https://techcrunch.com/sitemap-page-622.xml",
+      "https://techcrunch.com/sitemap-page-118.xml",
+      "https://techcrunch.com/sitemap-page-1701.xml",
+      "https://techcrunch.com/sitemap-page-5.xml",
+      "https://techcrunch.com/sitemap-page-1729.xml",
+      "https://techcrunch.com/sitemap-page-2011.xml",
+      "https://techcrunch.com/sitemap-page-1155.xml",
+      "https://techcrunch.com/sitemap-page-261.xml",
+      "https://techcrunch.com/sitemap-page-654.xml",
+      "https://techcrunch.com/sitemap-page-532.xml",
+      "https://techcrunch.com/sitemap-page-164.xml",
+      "https://techcrunch.com/sitemap-page-1310.xml",
+      "https://techcrunch.com/sitemap-page-1964.xml",
+      "https://techcrunch.com/sitemap-page-721.xml",
+      "https://techcrunch.com/news-sitemap.xml",
+      "https://techcrunch.com/sitemap-page-858.xml",
+      "https://techcrunch.com/sitemap-page-112.xml",
+      "https://techcrunch.com/sitemap-page-773.xml",
+      "https://techcrunch.com/sitemap-page-561.xml",
+      "https://techcrunch.com/sitemap-page-1636.xml",
+      "https://techcrunch.com/sitemap-page-1453.xml",
+      "https://techcrunch.com/sitemap-page-578.xml",
+      "https://techcrunch.com/sitemap-page-44.xml",
+      "https://techcrunch.com/sitemap-page-940.xml",
+      "https://techcrunch.com/sitemap-page-1637.xml",
+      "https://techcrunch.com/sitemap-page-640.xml",
+      "https://techcrunch.com/sitemap-page-1015.xml",
+      "https://techcrunch.com/sitemap-page-1638.xml",
+      "https://techcrunch.com/sitemap-page-313.xml",
+      "https://techcrunch.com/sitemap-page-1119.xml",
+      "https://techcrunch.com/sitemap-page-179.xml",
+      "https://techcrunch.com/sitemap-page-1018.xml",
+      "https://techcrunch.com/sitemap-page-1923.xml",
+      "https://techcrunch.com/sitemap-page-365.xml",
+      "https://techcrunch.com/sitemap-page-1082.xml",
+      "https://techcrunch.com/sitemap-page-32.xml",
+      "https://techcrunch.com/sitemap-page-228.xml",
+      "https://techcrunch.com/sitemap-page-1179.xml",
+      "https://techcrunch.com/sitemap-page-969.xml",
+      "https://techcrunch.com/sitemap-page-1133.xml",
+      "https://techcrunch.com/sitemap-page-542.xml",
+      "https://techcrunch.com/sitemap-page-356.xml",
+      "https://techcrunch.com/sitemap-page-309.xml",
+      "https://techcrunch.com/sitemap-page-1732.xml",
+      "https://techcrunch.com/sitemap-page-1301.xml",
+      "https://techcrunch.com/sitemap-page-109.xml",
+      "https://techcrunch.com/sitemap-page-485.xml",
+      "https://techcrunch.com/sitemap-page-264.xml",
+      "https://techcrunch.com/sitemap-page-1972.xml",
+      "https://techcrunch.com/sitemap-page-605.xml",
+      "https://techcrunch.com/sitemap-page-912.xml",
+      "https://techcrunch.com/sitemap-page-883.xml",
+      "https://techcrunch.com/sitemap-page-898.xml",
+      "https://techcrunch.com/sitemap-page-1597.xml",
+      "https://techcrunch.com/sitemap-page-1635.xml",
+      "https://techcrunch.com/sitemap-page-1817.xml",
+      "https://techcrunch.com/sitemap-page-524.xml",
+      "https://techcrunch.com/sitemap-page-1355.xml",
+      "https://techcrunch.com/sitemap-page-870.xml",
+      "https://techcrunch.com/sitemap-page-497.xml",
+      "https://techcrunch.com/sitemap-page-1866.xml",
+      "https://techcrunch.com/sitemap-page-62.xml",
+      "https://techcrunch.com/sitemap-page-1797.xml",
+      "https://techcrunch.com/sitemap-page-1988.xml",
+      "https://techcrunch.com/sitemap-page-56.xml",
+      "https://techcrunch.com/sitemap-page-660.xml",
+      "https://techcrunch.com/sitemap-page-74.xml",
+      "https://techcrunch.com/sitemap-page-595.xml",
+      "https://techcrunch.com/sitemap-page-279.xml",
+      "https://techcrunch.com/sitemap-page-657.xml",
+      "https://techcrunch.com/sitemap-page-236.xml",
+      "https://techcrunch.com/sitemap-page-1434.xml",
+      "https://techcrunch.com/sitemap-page-1750.xml",
+      "https://techcrunch.com/sitemap-page-613.xml",
+      "https://techcrunch.com/sitemap-page-106.xml",
+      "https://techcrunch.com/sitemap-page-318.xml",
+      "https://techcrunch.com/sitemap-page-450.xml",
+      "https://techcrunch.com/sitemap-page-1201.xml",
+      "https://techcrunch.com/sitemap-page-1963.xml",
+      "https://techcrunch.com/sitemap-page-29.xml",
+      "https://techcrunch.com/sitemap-page-1956.xml",
+      "https://techcrunch.com/sitemap-page-777.xml",
+      "https://techcrunch.com/sitemap-page-848.xml",
+      "https://techcrunch.com/sitemap-page-1432.xml",
+      "https://techcrunch.com/sitemap-page-1761.xml",
+      "https://techcrunch.com/sitemap-page-82.xml",
+      "https://techcrunch.com/sitemap-page-1657.xml",
+      "https://techcrunch.com/sitemap-page-637.xml",
+      "https://techcrunch.com/sitemap-page-1007.xml",
+      "https://techcrunch.com/sitemap-page-1367.xml",
+      "https://techcrunch.com/sitemap-page-70.xml",
+      "https://techcrunch.com/sitemap-page-982.xml",
+      "https://techcrunch.com/sitemap-page-1891.xml",
+      "https://techcrunch.com/sitemap-page-65.xml",
+      "https://techcrunch.com/sitemap-page-577.xml",
+      "https://techcrunch.com/sitemap-page-1134.xml",
+      "https://techcrunch.com/sitemap-page-1213.xml",
+      "https://techcrunch.com/sitemap-page-166.xml",
+      "https://techcrunch.com/sitemap-page-1105.xml",
+      "https://techcrunch.com/sitemap-page-426.xml",
+      "https://techcrunch.com/sitemap-page-1455.xml",
+      "https://techcrunch.com/sitemap-page-1180.xml",
+      "https://techcrunch.com/sitemap-page-1497.xml",
+      "https://techcrunch.com/sitemap-page-1938.xml",
+      "https://techcrunch.com/sitemap-page-1705.xml",
+      "https://techcrunch.com/sitemap-page-1679.xml",
+      "https://techcrunch.com/sitemap-page-185.xml",
+      "https://techcrunch.com/sitemap-page-1974.xml",
+      "https://techcrunch.com/sitemap-page-1406.xml",
+      "https://techcrunch.com/sitemap-page-1123.xml",
+      "https://techcrunch.com/sitemap-page-1021.xml",
+      "https://techcrunch.com/sitemap-page-1056.xml",
+      "https://techcrunch.com/sitemap-page-1395.xml",
+      "https://techcrunch.com/sitemap-page-825.xml",
+      "https://techcrunch.com/sitemap-page-53.xml",
+      "https://techcrunch.com/sitemap-page-1723.xml",
+      "https://techcrunch.com/sitemap-page-1810.xml",
+      "https://techcrunch.com/sitemap-page-576.xml",
+      "https://techcrunch.com/sitemap-page-1107.xml",
+      "https://techcrunch.com/sitemap-page-722.xml",
+      "https://techcrunch.com/sitemap-page-1793.xml",
+      "https://techcrunch.com/sitemap-page-1550.xml",
+      "https://techcrunch.com/sitemap-page-1198.xml",
+      "https://techcrunch.com/sitemap-page-308.xml",
+      "https://techcrunch.com/sitemap-page-1016.xml",
+      "https://techcrunch.com/sitemap-page-380.xml",
+      "https://techcrunch.com/sitemap-page-899.xml",
+      "https://techcrunch.com/sitemap-page-869.xml",
+      "https://techcrunch.com/sitemap-page-619.xml",
+      "https://techcrunch.com/sitemap-page-1873.xml",
+      "https://techcrunch.com/sitemap-page-235.xml",
+      "https://techcrunch.com/sitemap-page-1828.xml",
+      "https://techcrunch.com/sitemap-page-161.xml",
+      "https://techcrunch.com/sitemap-page-1783.xml",
+      "https://techcrunch.com/sitemap-page-541.xml",
+      "https://techcrunch.com/sitemap-page-425.xml",
+      "https://techcrunch.com/sitemap-page-1309.xml",
+      "https://techcrunch.com/sitemap-page-1659.xml",
+      "https://techcrunch.com/sitemap-page-1324.xml",
+      "https://techcrunch.com/sitemap-page-876.xml",
+      "https://techcrunch.com/sitemap-page-206.xml",
+      "https://techcrunch.com/sitemap-page-404.xml",
+      "https://techcrunch.com/sitemap-page-125.xml",
+      "https://techcrunch.com/sitemap-page-1598.xml",
+      "https://techcrunch.com/sitemap-page-1626.xml",
+      "https://techcrunch.com/sitemap-page-694.xml",
+      "https://techcrunch.com/sitemap-page-1742.xml",
+      "https://techcrunch.com/sitemap-page-1370.xml",
+      "https://techcrunch.com/sitemap-page-534.xml",
+      "https://techcrunch.com/sitemap-page-1469.xml",
+      "https://techcrunch.com/sitemap-page-1961.xml",
+      "https://techcrunch.com/sitemap-page-1671.xml",
+      "https://techcrunch.com/sitemap-page-734.xml",
+      "https://techcrunch.com/sitemap-page-521.xml",
+      "https://techcrunch.com/sitemap-page-1975.xml",
+      "https://techcrunch.com/sitemap-page-223.xml",
+      "https://techcrunch.com/sitemap-page-476.xml",
+      "https://techcrunch.com/sitemap-page-197.xml",
+      "https://techcrunch.com/sitemap-page-1230.xml",
+      "https://techcrunch.com/sitemap-page-566.xml",
+      "https://techcrunch.com/sitemap-page-814.xml",
+      "https://techcrunch.com/sitemap-page-1829.xml",
+      "https://techcrunch.com/sitemap-page-781.xml",
+      "https://techcrunch.com/sitemap-page-543.xml",
+      "https://techcrunch.com/sitemap-page-436.xml",
+      "https://techcrunch.com/sitemap-page-533.xml",
+      "https://techcrunch.com/sitemap-page-621.xml",
+      "https://techcrunch.com/sitemap-page-1861.xml",
+      "https://techcrunch.com/sitemap-page-1364.xml",
+      "https://techcrunch.com/sitemap-page-896.xml",
+      "https://techcrunch.com/sitemap-page-23.xml",
+      "https://techcrunch.com/sitemap-page-1224.xml",
+      "https://techcrunch.com/sitemap-page-1849.xml",
+      "https://techcrunch.com/sitemap-page-378.xml",
+      "https://techcrunch.com/sitemap-page-1714.xml",
+      "https://techcrunch.com/sitemap-page-891.xml",
+      "https://techcrunch.com/sitemap-page-387.xml",
+      "https://techcrunch.com/sitemap-page-1460.xml",
+      "https://techcrunch.com/sitemap-page-1818.xml",
+      "https://techcrunch.com/sitemap-page-98.xml",
+      "https://techcrunch.com/sitemap-page-1625.xml",
+      "https://techcrunch.com/sitemap-page-463.xml",
+      "https://techcrunch.com/sitemap-page-1387.xml",
+      "https://techcrunch.com/sitemap-page-17.xml",
+      "https://techcrunch.com/sitemap-page-1765.xml",
+      "https://techcrunch.com/sitemap-page-1730.xml",
+      "https://techcrunch.com/sitemap-page-2.xml",
+      "https://techcrunch.com/sitemap-page-762.xml",
+      "https://techcrunch.com/sitemap-page-1172.xml",
+      "https://techcrunch.com/sitemap-page-789.xml",
+      "https://techcrunch.com/sitemap-page-332.xml",
+      "https://techcrunch.com/sitemap-page-914.xml",
+      "https://techcrunch.com/sitemap-page-830.xml",
+      "https://techcrunch.com/sitemap-page-713.xml",
+      "https://techcrunch.com/sitemap-page-1668.xml",
+      "https://techcrunch.com/sitemap-page-255.xml",
+      "https://techcrunch.com/sitemap-page-1949.xml",
+      "https://techcrunch.com/sitemap-page-199.xml",
+      "https://techcrunch.com/sitemap-page-89.xml",
+      "https://techcrunch.com/sitemap-page-163.xml",
+      "https://techcrunch.com/sitemap-page-1397.xml",
+      "https://techcrunch.com/sitemap-page-1408.xml",
+      "https://techcrunch.com/sitemap-page-1565.xml",
+      "https://techcrunch.com/sitemap-page-1752.xml",
+      "https://techcrunch.com/sitemap-page-980.xml",
+      "https://techcrunch.com/sitemap-page-403.xml",
+      "https://techcrunch.com/sitemap-page-1779.xml",
+      "https://techcrunch.com/sitemap-page-1834.xml",
+      "https://techcrunch.com/sitemap-page-281.xml",
+      "https://techcrunch.com/sitemap-page-495.xml",
+      "https://techcrunch.com/sitemap-page-525.xml",
+      "https://techcrunch.com/sitemap-page-1154.xml",
+      "https://techcrunch.com/sitemap-page-1383.xml",
+      "https://techcrunch.com/sitemap-page-151.xml",
+      "https://techcrunch.com/sitemap-page-1020.xml",
+      "https://techcrunch.com/sitemap-page-1481.xml",
+      "https://techcrunch.com/sitemap-page-1211.xml",
+      "https://techcrunch.com/sitemap-page-1482.xml",
+      "https://techcrunch.com/sitemap-page-582.xml",
+      "https://techcrunch.com/sitemap-page-1345.xml",
+      "https://techcrunch.com/sitemap-page-782.xml",
+      "https://techcrunch.com/sitemap-page-1365.xml",
+      "https://techcrunch.com/sitemap-page-80.xml",
+      "https://techcrunch.com/sitemap-page-1142.xml",
+      "https://techcrunch.com/sitemap-page-10.xml",
+      "https://techcrunch.com/sitemap-page-137.xml",
+      "https://techcrunch.com/sitemap-page-173.xml",
+      "https://techcrunch.com/sitemap-page-73.xml",
+      "https://techcrunch.com/sitemap-page-133.xml",
+      "https://techcrunch.com/sitemap-page-745.xml",
+      "https://techcrunch.com/sitemap-page-1332.xml",
+      "https://techcrunch.com/sitemap-page-1689.xml",
+      "https://techcrunch.com/sitemap-page-563.xml",
+      "https://techcrunch.com/sitemap-page-1307.xml",
+      "https://techcrunch.com/sitemap-page-1264.xml",
+      "https://techcrunch.com/sitemap-page-1851.xml",
+      "https://techcrunch.com/sitemap-page-1393.xml",
+      "https://techcrunch.com/sitemap-page-1492.xml",
+      "https://techcrunch.com/sitemap-page-85.xml",
+      "https://techcrunch.com/sitemap-page-639.xml",
+      "https://techcrunch.com/sitemap-page-584.xml",
+      "https://techcrunch.com/sitemap-page-1759.xml",
+      "https://techcrunch.com/sitemap-page-784.xml",
+      "https://techcrunch.com/sitemap-page-379.xml",
+      "https://techcrunch.com/sitemap-page-837.xml",
+      "https://techcrunch.com/sitemap-page-2008.xml",
+      "https://techcrunch.com/sitemap-page-142.xml",
+      "https://techcrunch.com/sitemap-page-509.xml",
+      "https://techcrunch.com/sitemap-page-1708.xml",
+      "https://techcrunch.com/sitemap-page-1864.xml",
+      "https://techcrunch.com/sitemap-page-1029.xml",
+      "https://techcrunch.com/sitemap-page-646.xml",
+      "https://techcrunch.com/sitemap-page-1634.xml",
+      "https://techcrunch.com/sitemap-page-1748.xml",
+      "https://techcrunch.com/sitemap-page-1826.xml",
+      "https://techcrunch.com/sitemap-page-587.xml",
+      "https://techcrunch.com/sitemap-page-1530.xml",
+      "https://techcrunch.com/sitemap-page-1633.xml",
+      "https://techcrunch.com/sitemap-page-1500.xml",
+      "https://techcrunch.com/sitemap-page-178.xml",
+      "https://techcrunch.com/sitemap-page-1936.xml",
+      "https://techcrunch.com/sitemap-page-1240.xml",
+      "https://techcrunch.com/sitemap-page-816.xml",
+      "https://techcrunch.com/sitemap-page-999.xml",
+      "https://techcrunch.com/sitemap-page-1032.xml",
+      "https://techcrunch.com/sitemap-page-1487.xml",
+      "https://techcrunch.com/sitemap-page-1685.xml",
+      "https://techcrunch.com/sitemap-page-346.xml",
+      "https://techcrunch.com/sitemap-page-1987.xml",
+      "https://techcrunch.com/sitemap-page-260.xml",
+      "https://techcrunch.com/sitemap-page-850.xml",
+      "https://techcrunch.com/sitemap-page-1767.xml",
+      "https://techcrunch.com/sitemap-page-1536.xml",
+      "https://techcrunch.com/sitemap-page-1400.xml",
+      "https://techcrunch.com/sitemap-page-1649.xml",
+      "https://techcrunch.com/sitemap-page-574.xml",
+      "https://techcrunch.com/sitemap-page-1295.xml",
+      "https://techcrunch.com/sitemap-page-1897.xml",
+      "https://techcrunch.com/sitemap-page-31.xml",
+      "https://techcrunch.com/sitemap-page-703.xml",
+      "https://techcrunch.com/sitemap-page-200.xml",
+      "https://techcrunch.com/sitemap-page-113.xml",
+      "https://techcrunch.com/sitemap-page-222.xml",
+      "https://techcrunch.com/sitemap-page-620.xml",
+      "https://techcrunch.com/sitemap-page-1193.xml",
+      "https://techcrunch.com/sitemap-page-839.xml",
+      "https://techcrunch.com/sitemap-page-1452.xml",
+      "https://techcrunch.com/sitemap-page-1880.xml",
+      "https://techcrunch.com/sitemap-page-1907.xml",
+      "https://techcrunch.com/sitemap-page-244.xml",
+      "https://techcrunch.com/sitemap-page-1845.xml",
+      "https://techcrunch.com/sitemap-page-1447.xml",
+      "https://techcrunch.com/sitemap-page-1643.xml",
+      "https://techcrunch.com/sitemap-page-1578.xml",
+      "https://techcrunch.com/sitemap-page-1867.xml",
+      "https://techcrunch.com/sitemap-page-370.xml",
+      "https://techcrunch.com/sitemap-page-552.xml",
+      "https://techcrunch.com/sitemap-page-1421.xml",
+      "https://techcrunch.com/sitemap-page-679.xml",
+      "https://techcrunch.com/sitemap-page-1966.xml",
+      "https://techcrunch.com/sitemap-page-602.xml",
+      "https://techcrunch.com/sitemap-page-737.xml",
+      "https://techcrunch.com/sitemap-page-1786.xml",
+      "https://techcrunch.com/sitemap-page-1225.xml",
+      "https://techcrunch.com/sitemap-page-480.xml",
+      "https://techcrunch.com/sitemap-page-300.xml",
+      "https://techcrunch.com/sitemap-page-414.xml",
+      "https://techcrunch.com/sitemap-page-1658.xml",
+      "https://techcrunch.com/sitemap-page-1081.xml",
+      "https://techcrunch.com/sitemap-page-1509.xml",
+      "https://techcrunch.com/sitemap-page-1152.xml",
+      "https://techcrunch.com/sitemap-page-987.xml",
+      "https://techcrunch.com/sitemap-page-434.xml",
+      "https://techcrunch.com/sitemap-page-1431.xml",
+      "https://techcrunch.com/sitemap-page-1896.xml",
+      "https://techcrunch.com/sitemap-page-1994.xml",
+      "https://techcrunch.com/sitemap-page-562.xml",
+      "https://techcrunch.com/sitemap-page-902.xml",
+      "https://techcrunch.com/sitemap-page-580.xml",
+      "https://techcrunch.com/sitemap-page-14.xml",
+      "https://techcrunch.com/sitemap-page-642.xml",
+      "https://techcrunch.com/sitemap-page-325.xml",
+      "https://techcrunch.com/sitemap-page-127.xml",
+      "https://techcrunch.com/sitemap-page-802.xml",
+      "https://techcrunch.com/sitemap-page-1999.xml",
+      "https://techcrunch.com/sitemap-page-496.xml",
+      "https://techcrunch.com/sitemap-page-1012.xml",
+      "https://techcrunch.com/sitemap-page-172.xml",
+      "https://techcrunch.com/sitemap-page-1222.xml",
+      "https://techcrunch.com/sitemap-page-1485.xml",
+      "https://techcrunch.com/sitemap-page-672.xml",
+      "https://techcrunch.com/sitemap-page-760.xml",
+      "https://techcrunch.com/sitemap-page-1920.xml",
+      "https://techcrunch.com/sitemap-page-510.xml",
+      "https://techcrunch.com/sitemap-page-882.xml",
+      "https://techcrunch.com/sitemap-page-1760.xml",
+      "https://techcrunch.com/sitemap-page-1833.xml",
+      "https://techcrunch.com/sitemap-page-801.xml",
+      "https://techcrunch.com/sitemap-page-831.xml",
+      "https://techcrunch.com/sitemap-page-211.xml",
+      "https://techcrunch.com/sitemap-page-623.xml",
+      "https://techcrunch.com/sitemap-page-368.xml",
+      "https://techcrunch.com/sitemap-page-1575.xml",
+      "https://techcrunch.com/sitemap-page-1678.xml",
+      "https://techcrunch.com/sitemap-page-546.xml",
+      "https://techcrunch.com/sitemap-page-1199.xml",
+      "https://techcrunch.com/sitemap-page-91.xml",
+      "https://techcrunch.com/sitemap-page-1319.xml",
+      "https://techcrunch.com/sitemap-page-579.xml",
+      "https://techcrunch.com/sitemap-page-1390.xml",
+      "https://techcrunch.com/sitemap-page-335.xml",
+      "https://techcrunch.com/sitemap-page-456.xml",
+      "https://techcrunch.com/sitemap-page-252.xml",
+      "https://techcrunch.com/sitemap-page-804.xml",
+      "https://techcrunch.com/sitemap-page-215.xml",
+      "https://techcrunch.com/sitemap-page-1022.xml",
+      "https://techcrunch.com/sitemap-page-1170.xml",
+      "https://techcrunch.com/sitemap-page-1596.xml",
+      "https://techcrunch.com/sitemap-page-67.xml",
+      "https://techcrunch.com/sitemap-page-474.xml",
+      "https://techcrunch.com/sitemap-page-1047.xml",
+      "https://techcrunch.com/sitemap-page-1753.xml",
+      "https://techcrunch.com/sitemap-page-1556.xml",
+      "https://techcrunch.com/sitemap-page-594.xml",
+      "https://techcrunch.com/sitemap-page-1422.xml",
+      "https://techcrunch.com/sitemap-page-673.xml",
+      "https://techcrunch.com/sitemap-page-1615.xml",
+      "https://techcrunch.com/sitemap-page-1316.xml",
+      "https://techcrunch.com/sitemap-page-1934.xml",
+      "https://techcrunch.com/sitemap-page-129.xml",
+      "https://techcrunch.com/sitemap-page-909.xml",
+      "https://techcrunch.com/sitemap-page-645.xml",
+      "https://techcrunch.com/sitemap-page-554.xml",
+      "https://techcrunch.com/sitemap-page-1611.xml",
+      "https://techcrunch.com/sitemap-page-1076.xml",
+      "https://techcrunch.com/sitemap-page-1323.xml",
+      "https://techcrunch.com/sitemap-page-1176.xml",
+      "https://techcrunch.com/sitemap-page-1910.xml",
+      "https://techcrunch.com/sitemap-page-1712.xml",
+      "https://techcrunch.com/sitemap-page-589.xml",
+      "https://techcrunch.com/sitemap-page-25.xml",
+      "https://techcrunch.com/sitemap-page-667.xml",
+      "https://techcrunch.com/sitemap-page-630.xml",
+      "https://techcrunch.com/sitemap-page-1592.xml",
+      "https://techcrunch.com/sitemap-page-1646.xml",
+      "https://techcrunch.com/sitemap-page-1562.xml",
+      "https://techcrunch.com/sitemap-page-1924.xml",
+      "https://techcrunch.com/sitemap-page-1473.xml",
+      "https://techcrunch.com/sitemap-page-400.xml",
+      "https://techcrunch.com/sitemap-page-520.xml",
+      "https://techcrunch.com/sitemap-page-1982.xml",
+      "https://techcrunch.com/sitemap-page-1605.xml",
+      "https://techcrunch.com/sitemap-page-1304.xml",
+      "https://techcrunch.com/sitemap-page-278.xml",
+      "https://techcrunch.com/sitemap-page-358.xml",
+      "https://techcrunch.com/sitemap-page-442.xml",
+      "https://techcrunch.com/sitemap-page-1461.xml",
+      "https://techcrunch.com/sitemap-page-1718.xml",
+      "https://techcrunch.com/sitemap-page-1948.xml",
+      "https://techcrunch.com/sitemap-page-512.xml",
+      "https://techcrunch.com/sitemap-page-105.xml",
+      "https://techcrunch.com/sitemap-page-1463.xml",
+      "https://techcrunch.com/sitemap-page-1144.xml",
+      "https://techcrunch.com/sitemap-page-1925.xml",
+      "https://techcrunch.com/sitemap-page-336.xml",
+      "https://techcrunch.com/sitemap-page-1110.xml",
+      "https://techcrunch.com/sitemap-page-670.xml",
+      "https://techcrunch.com/sitemap-page-52.xml",
+      "https://techcrunch.com/sitemap-page-1903.xml",
+      "https://techcrunch.com/sitemap-page-1538.xml",
+      "https://techcrunch.com/sitemap-page-465.xml",
+      "https://techcrunch.com/sitemap-page-1555.xml",
+      "https://techcrunch.com/sitemap-page-123.xml",
+      "https://techcrunch.com/page-sitemap.xml",
+      "https://techcrunch.com/sitemap-page-108.xml",
+      "https://techcrunch.com/sitemap-page-130.xml",
+      "https://techcrunch.com/sitemap-page-794.xml",
+      "https://techcrunch.com/sitemap-page-710.xml",
+      "https://techcrunch.com/sitemap-page-273.xml",
+      "https://techcrunch.com/sitemap-page-1069.xml",
+      "https://techcrunch.com/sitemap-page-1553.xml",
+      "https://techcrunch.com/sitemap-page-1927.xml",
+      "https://techcrunch.com/sitemap-page-1751.xml",
+      "https://techcrunch.com/sitemap-page-668.xml",
+      "https://techcrunch.com/sitemap-page-1419.xml",
+      "https://techcrunch.com/sitemap-page-1835.xml",
+      "https://techcrunch.com/sitemap-page-2013.xml",
+      "https://techcrunch.com/sitemap-page-820.xml",
+      "https://techcrunch.com/sitemap-page-1359.xml",
+      "https://techcrunch.com/sitemap-page-555.xml",
+      "https://techcrunch.com/sitemap-page-854.xml",
+      "https://techcrunch.com/sitemap-page-779.xml",
+      "https://techcrunch.com/sitemap-page-569.xml",
+      "https://techcrunch.com/sitemap-page-1192.xml",
+      "https://techcrunch.com/sitemap-page-1549.xml",
+      "https://techcrunch.com/sitemap-page-545.xml",
+      "https://techcrunch.com/sitemap-page-1168.xml",
+      "https://techcrunch.com/sitemap-page-1681.xml",
+      "https://techcrunch.com/sitemap-page-34.xml",
+      "https://techcrunch.com/sitemap-page-1378.xml",
+      "https://techcrunch.com/sitemap-page-1505.xml",
+      "https://techcrunch.com/sitemap-page-1577.xml",
+      "https://techcrunch.com/sitemap-page-1710.xml",
+      "https://techcrunch.com/sitemap-page-321.xml",
+      "https://techcrunch.com/sitemap-page-1680.xml",
+      "https://techcrunch.com/sitemap-page-1863.xml",
+      "https://techcrunch.com/sitemap-page-64.xml",
+      "https://techcrunch.com/sitemap-page-134.xml",
+      "https://techcrunch.com/sitemap-page-188.xml",
+      "https://techcrunch.com/sitemap-page-1586.xml",
+      "https://techcrunch.com/sitemap-page-1282.xml",
+      "https://techcrunch.com/sitemap-page-1576.xml",
+      "https://techcrunch.com/sitemap-page-1200.xml",
+      "https://techcrunch.com/sitemap-page-867.xml",
+      "https://techcrunch.com/sitemap-page-944.xml",
+      "https://techcrunch.com/sitemap-page-1840.xml",
+      "https://techcrunch.com/sitemap-page-1739.xml",
+      "https://techcrunch.com/sitemap-page-1039.xml",
+      "https://techcrunch.com/sitemap-page-1051.xml",
+      "https://techcrunch.com/sitemap-page-227.xml",
+      "https://techcrunch.com/sitemap-page-26.xml",
+      "https://techcrunch.com/sitemap-page-1068.xml",
+      "https://techcrunch.com/sitemap-page-1175.xml",
+      "https://techcrunch.com/sitemap-page-187.xml",
+      "https://techcrunch.com/sitemap-page-407.xml",
+      "https://techcrunch.com/sitemap-page-386.xml",
+      "https://techcrunch.com/sitemap-page-925.xml",
+      "https://techcrunch.com/sitemap-page-1986.xml",
+      "https://techcrunch.com/sitemap-page-742.xml",
+      "https://techcrunch.com/sitemap-page-258.xml",
+      "https://techcrunch.com/sitemap-page-908.xml",
+      "https://techcrunch.com/sitemap-page-1191.xml",
+      "https://techcrunch.com/sitemap-page-338.xml",
+      "https://techcrunch.com/sitemap-page-1620.xml",
+      "https://techcrunch.com/sitemap-page-2014.xml",
+      "https://techcrunch.com/sitemap-page-443.xml",
+      "https://techcrunch.com/sitemap-page-1145.xml",
+      "https://techcrunch.com/sitemap-page-1651.xml",
+      "https://techcrunch.com/sitemap-page-1458.xml",
+      "https://techcrunch.com/sitemap-page-60.xml",
+      "https://techcrunch.com/sitemap-page-344.xml",
+      "https://techcrunch.com/sitemap-page-111.xml",
+      "https://techcrunch.com/sitemap-page-1865.xml",
+      "https://techcrunch.com/sitemap-page-573.xml",
+      "https://techcrunch.com/sitemap-page-362.xml",
+      "https://techcrunch.com/sitemap-page-1215.xml",
+      "https://techcrunch.com/sitemap-page-1789.xml",
+      "https://techcrunch.com/sitemap-page-1086.xml",
+      "https://techcrunch.com/sitemap-page-201.xml",
+      "https://techcrunch.com/sitemap-page-266.xml",
+      "https://techcrunch.com/sitemap-page-1417.xml",
+      "https://techcrunch.com/sitemap-page-1548.xml",
+      "https://techcrunch.com/sitemap-page-1756.xml",
+      "https://techcrunch.com/sitemap-page-711.xml",
+      "https://techcrunch.com/sitemap-page-1728.xml",
+      "https://techcrunch.com/sitemap-page-1879.xml",
+      "https://techcrunch.com/sitemap-page-213.xml",
+      "https://techcrunch.com/sitemap-page-1164.xml",
+      "https://techcrunch.com/sitemap-page-1283.xml",
+      "https://techcrunch.com/sitemap-page-1088.xml",
+      "https://techcrunch.com/sitemap-page-1698.xml",
+      "https://techcrunch.com/sitemap-page-415.xml",
+      "https://techcrunch.com/sitemap-page-946.xml"
+    ]
+  },
+  "configuration": {
+    "base_url": "https://www.city.chiyoda.lg.jp",
+    "target_domains": null,
+    "use_sitemap": true,
+    "use_common_crawl": true,
+    "use_enhanced_sitemaps": true,
+    "pattern": "*",
+    "query": "municipal services government information",
+    "relevance_threshold": 0.2,
+    "max_urls_per_domain": 100,
+    "extract_head": true,
+    "live_check": false,
+    "use_llm_analysis": false,
+    "concurrency": 20,
+    "hits_per_sec": 10,
+    "timeout": 30,
+    "gemini_api_key": null,
+    "llm_model": "gemini-1.5-flash",
+    "use_cache": true,
+    "force_refresh": false,
+    "output_dir": "url_seeding_results",
+    "recursive_sitemap_discovery": true,
+    "cross_domain_analysis": false,
+    "smart_filtering": true,
+    "verbose": true,
+    "save_intermediate": true
+  },
+  "stats": {
+    "discovery_stats": {},
+    "filtering_stats": {},
+    "performance_stats": {}
+  }
+}

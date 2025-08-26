@@ -1,0 +1,2302 @@
+{
+  "discovery_summary": {
+    "total_urls_discovered": 38,
+    "domains_processed": 1,
+    "discovery_duration_seconds": 29.991315841674805,
+    "urls_per_second": 1.2670334372990941,
+    "timestamp": "2025-08-20T15:43:44.106214"
+  },
+  "discovered_urls": {
+    "www.city.chiyoda.lg.jp": [
+      {
+        "url": "https://www.city.chiyoda.lg.jp/",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "description": "千代田区ホームページへようこそ。千代田区公式ホームページです。",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/top_rn/style/edit.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css?v=20230810",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/top_rn/style/edit_sp.css?v=20230810",
+                "type": "text/css"
+              }
+            ],
+            "alternate": [
+              {
+                "href": "/kinkyu/kinkyu.xml",
+                "type": "application/rss+xml"
+              },
+              {
+                "href": "/oshirase/oshirase.xml",
+                "type": "application/rss+xml"
+              },
+              {
+                "href": "/chumoku/chumoku.xml",
+                "type": "application/rss+xml"
+              },
+              {
+                "href": "/shinchaku/shinchaku.xml",
+                "type": "application/rss+xml"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20240802070038_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2024年8月2日 07時00分 熱中症警戒アラート",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20240927211255_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2024年9月27日 21時12分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250407082130_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月7日 08時21分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250416184219_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月16日 18時42分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250417211815_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月17日 21時18分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250418215136_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月18日 21時51分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250420040452_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月20日 04時04分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/20250421040412_1.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 2025年4月21日 04時04分 気象警報・注意報",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/bousaimail/list.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 安全・安心メール",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/ebook/shigoto/jigyosho/chiyoda_2022/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "Chiyodaku_Guidebook2022 | ActiBook",
+          "charset": "utf-8",
+          "meta": {
+            "x-ua-compatible": "IE=edge,chrome=1",
+            "keywords": "Chiyodaku_Guidebook2022,電子ブック,ebook,デジタルカタログ,アクティブック,ActiBook,書籍",
+            "description": "Chiyodaku_Guidebook2022 :: ActiBook",
+            "og:title": "Chiyodaku_Guidebook2022",
+            "og:type": "book",
+            "og:description": "Chiyodaku_Guidebook2022"
+          },
+          "link": {
+            "index": [
+              {
+                "href": "./index.html"
+              }
+            ],
+            "image_src": [
+              {
+                "href": "./iPhone/cover2.jpg"
+              }
+            ],
+            "stylesheet": [
+              {
+                "href": "css/normalize.min.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/btns.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/mobile.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/pc_tablet.css",
+                "type": "text/css"
+              },
+              {
+                "href": "css/pc_tablet.css",
+                "type": "text/css"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/kenko/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 健康・福祉",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bungaku/boshu.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第20回ちよだ文学賞募集の概要（募集は終了しました）",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bungaku/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - ちよだ文学賞・ちよだジュニア文学賞",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bungaku/jusho.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第19回ちよだ文学賞 受賞作決定",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bunkashisetsu/artsquare-saiboshu.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - ちよだアートスクエア第3期運営団体の再募集【終了しました】",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/bunkashisetsu/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 文化施設",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/event/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 文化イベント",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/festival/r6kaisai.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第45回文化芸術の秋フェスティバル開催",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/festival/r7kaisai.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 千代田区文化芸術フェスティバル2025（事業は終了しました）",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/joseiboshu.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 文化事業助成",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/bunka/shogaishaart/index.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 障害者アート支援事業",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/shogai/guidebook.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 講座・講習会",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/riyo-hojo.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 少年少女スポーツ団体スポーツ施設利用補助",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/seibi/shinsportscenter-kihonkoso.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 新スポーツセンター基本構想",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/sports-suishin.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 千代田区スポーツ推進委員",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/suposuta.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - スポーツセンター「すぽすたちよだクラブ」",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/taiiku-taikai.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第63回千代田区民体育大会",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20241109-3.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - ちよだ環境フェア2024",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20241204.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 人権週間講演会（副島 淳さん）",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20241208-2.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 第52回全日本空手道選手権大会へのご招待（日本武道館）",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20250215.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - ちよだ猫まつり2025",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20250713-2.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 納涼民踊の集い",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20250724.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - かんだ伝統文化親子教室",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20250802.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 専修大学 金融リテラシー講座（1）みなさんの「ミライ」と「お金」",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20250809.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 戦後80年 夏の平和イベント～千代田区の所蔵資料から振り返る戦中・戦後～",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/event/20250813-2.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - 令和7年8月実桜の会（千代田区認知症本人ミーティング）開催のお知らせ",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      },
+      {
+        "url": "https://www.city.chiyoda.lg.jp/koho/kenko/iryo/kakaritsuke.html",
+        "status": "valid",
+        "head_data": {
+          "title": "千代田区ホームページ - かかりつけ医、かかりつけ歯科医、かかりつけ薬局を持ちましょう",
+          "charset": null,
+          "meta": {
+            "content-type": "text/html; charset=utf-8",
+            "content-style-type": "text/css",
+            "content-script-type": "text/javascript",
+            "author": "千代田区",
+            "viewport": "width=device-width, maximum-scale=3.0",
+            "format-detection": "telephone=no"
+          },
+          "link": {
+            "stylesheet": [
+              {
+                "href": "/shared/site_rn/style/default.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/layout.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/site_rn/style/smartphone.css",
+                "type": "text/css"
+              },
+              {
+                "href": "/shared/templates/free_rn/style/edit_sp.css",
+                "type": "text/css"
+              }
+            ],
+            "shortcut": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "icon": [
+              {
+                "href": "/shared/site_rn/images/favicon/favicon.ico",
+                "type": "image/vnd.microsoft.icon"
+              }
+            ],
+            "apple-touch-icon-precomposed": [
+              {
+                "href": "/shared/site_rn/images/favicon/apple-touch-icon-precomposed.png"
+              }
+            ]
+          },
+          "jsonld": []
+        },
+        "relevance_score": 0.5
+      }
+    ]
+  },
+  "sitemap_urls": {
+    "www.city.chiyoda.lg.jp": []
+  },
+  "configuration": {
+    "base_url": "https://www.city.chiyoda.lg.jp",
+    "target_domains": null,
+    "use_sitemap": true,
+    "use_common_crawl": true,
+    "use_enhanced_sitemaps": true,
+    "pattern": "*",
+    "query": "municipal services government information",
+    "relevance_threshold": 0.2,
+    "max_urls_per_domain": 100,
+    "extract_head": true,
+    "live_check": false,
+    "use_llm_analysis": false,
+    "concurrency": 20,
+    "hits_per_sec": 10,
+    "timeout": 30,
+    "gemini_api_key": null,
+    "llm_model": "gemini-1.5-flash",
+    "use_cache": true,
+    "force_refresh": false,
+    "output_dir": "url_seeding_results",
+    "recursive_sitemap_discovery": true,
+    "cross_domain_analysis": false,
+    "smart_filtering": true,
+    "verbose": true,
+    "save_intermediate": true
+  },
+  "stats": {
+    "discovery_stats": {},
+    "filtering_stats": {},
+    "performance_stats": {}
+  }
+}

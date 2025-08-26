@@ -1,0 +1,240 @@
+[
+  {
+    "url": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+    "status": "valid",
+    "head_data": {
+      "title": "UberConference Highlights the Issues With the Current Conference Call Services | TechCrunch",
+      "charset": "utf-8",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "og:locale": "en_US",
+        "og:type": "article",
+        "og:title": "UberConference Highlights the Issues With the Current Conference Call Services | TechCrunch",
+        "og:description": "Recorded on May 24, 2012. TechCrunch Disrupt NY 2012 – Day 1. UberConference highlights the issues with the current conference call services.",
+        "og:url": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+        "og:site_name": "TechCrunch",
+        "article:publisher": "https://www.facebook.com/techcrunch",
+        "article:modified_time": "2024-05-11T21:43:24+00:00",
+        "og:image": "https://techcrunch.com/wp-content/uploads/2012/05/sddefault-451.jpg?w=640",
+        "og:image:width": "640",
+        "og:image:height": "480",
+        "og:image:type": "image/jpeg",
+        "twitter:card": "summary_large_image",
+        "twitter:site": "@TechCrunch",
+        "twitter:label1": "Written by",
+        "twitter:data1": "TC Video"
+      },
+      "link": {
+        "canonical": [
+          {
+            "href": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+          }
+        ],
+        "dns-prefetch": [
+          {
+            "href": "//www.google.com"
+          },
+          {
+            "href": "//public.servenobid.com"
+          },
+          {
+            "href": "//ak.sail-horizon.com"
+          },
+          {
+            "href": "//stats.wp.com"
+          },
+          {
+            "href": "//www.gstatic.com"
+          }
+        ],
+        "alternate": [
+          {
+            "href": "https://techcrunch.com/feed/",
+            "type": "application/rss+xml"
+          }
+        ]
+      },
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#article",
+              "isPartOf": {
+                "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+              },
+              "author": [
+                {
+                  "@id": "https://techcrunch.com/#/schema/person/image/cc994c0c50affb4bb60a45916fec3142"
+                }
+              ],
+              "headline": "UberConference Highlights the Issues With the Current Conference Call Services",
+              "datePublished": "2012-05-24T23:01:43+00:00",
+              "dateModified": "2024-05-11T21:43:24+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+              },
+              "wordCount": 37,
+              "publisher": {
+                "@id": "https://techcrunch.com/#organization"
+              },
+              "image": {
+                "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage"
+              },
+              "thumbnailUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+              "inLanguage": "en-US",
+              "speakable": {
+                "@type": "SpeakableSpecification",
+                "cssSelector": [
+                  "#speakable-summary"
+                ]
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+              "url": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/",
+              "name": "UberConference Highlights the Issues With the Current Conference Call Services | TechCrunch",
+              "isPartOf": {
+                "@id": "https://techcrunch.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage"
+              },
+              "image": {
+                "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage"
+              },
+              "thumbnailUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+              "datePublished": "2012-05-24T23:01:43+00:00",
+              "dateModified": "2024-05-11T21:43:24+00:00",
+              "breadcrumb": {
+                "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#primaryimage",
+              "url": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+              "contentUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://techcrunch.com/video/uberconference-highlights-the-issues-with-the-current-conference-call-services/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://techcrunch.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Videos",
+                  "item": "https://techcrunch.com/video/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "UberConference Highlights the Issues With the Current Conference Call Services"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://techcrunch.com/#website",
+              "url": "https://techcrunch.com/",
+              "name": "TechCrunch",
+              "description": "Startup and Technology News",
+              "publisher": {
+                "@id": "https://techcrunch.com/#organization"
+              },
+              "alternateName": "TC",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://techcrunch.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://techcrunch.com/#organization",
+              "name": "TechCrunch",
+              "alternateName": "TC",
+              "url": "https://techcrunch.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://techcrunch.com/#/schema/logo/image/",
+                "url": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+                "contentUrl": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+                "width": 1200,
+                "height": 1200,
+                "caption": "TechCrunch"
+              },
+              "image": {
+                "@id": "https://techcrunch.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/techcrunch",
+                "https://x.com/TechCrunch",
+                "https://mstdn.social/@TechCrunch",
+                "https://bsky.app/profile/techcrunch.com",
+                "https://www.threads.net/@techcrunch"
+              ]
+            },
+            {
+              "@type": "VideoObject",
+              "@id": "https://techcrunch.com/#/schema/VideoObject/2738708",
+              "name": "UberConference Highlights the Issues With the Current Conference Call Services",
+              "uploadDate": "2012-05-24T23:01:43+00:00",
+              "thumbnailUrl": "https://techcrunch.com/wp-content/uploads/2023/06/sddefault_29f047.jpg",
+              "description": "Recorded on May 24, 2012. TechCrunch Disrupt NY 2012 - Day 1. UberConference highlights the issues with the current conference call services.",
+              "duration": "PT1M53S",
+              "embedUrl": "https://www.youtube.com/watch?v=Lw4ST6CCjD0"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://techcrunch.com/#/schema/person/image/cc994c0c50affb4bb60a45916fec3142",
+              "name": "TC Video",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://techcrunch.com/#/schema/person/image/466f771a29520469d8b398d6d466a7c4",
+                "url": "https://secure.gravatar.com/avatar/bd2040d70a38e40449e2de3e69866b11?s=96&d=identicon&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/bd2040d70a38e40449e2de3e69866b11?s=96&d=identicon&r=g",
+                "caption": "TC Video"
+              },
+              "url": "https://techcrunch.com/author/tc-video/"
+            }
+          ]
+        }
+      ]
+    },
+    "relevance_score": 1.0
+  }
+]
